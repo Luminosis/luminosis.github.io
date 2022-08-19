@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: A Propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ces pages sont dédiées aux Femmes et aux Hommes de notre Terre.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Vous qui cherchez la Lumière.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Vous qui entendez dans votre Coeur battre cet appel.
 
+Vous qui Aimez.
 
-[jekyll-organization]: https://github.com/jekyll
+Vous qui voulez un autre demain pour l’Humanité.
+
+Ce livre est pour vous.
+
+C’est mon cadeau à vous mes Frères et mes Soeurs.
+
+Lisez le, partagez le, diffusez la bonne nouvelle...
+
+Philippe

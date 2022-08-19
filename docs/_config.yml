@@ -21,15 +21,12 @@
 title: Luminosis 
 email: contact@luminosis.org 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  La Vie est la maison de l'Amour, la Paix et la Joie. La Vérité enfante les mondes et la Pureté s'en empare pour donner naissance à la Lumière. Ainsi naissent les mondes du Royaume de Notre Père.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: luminosis.github.io
 url: "https://luminosis.github.io/" 
-#twitter_username: jekyllrb
 github_username: luminosis 
-
+paginate: 10
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
