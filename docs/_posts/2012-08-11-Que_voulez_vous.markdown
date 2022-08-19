@@ -2,7 +2,8 @@
 layout: post
 title:  "Que voulez-vous?"
 date:   2012-08-11 10:57:19 +0200
-categories: vérité volume_I
+tags: fr
+categories: truth volume_I
 ---
 Dans ce monde l’on croit la Vérité par les artifices de la science. Il manque pourtant un élément essentiel : la Foi. Il manque ce qui donne Vie et qu’aucune science ne peut expliquer, car ce n’est pas une science mais la seule volonté de Notre Père qui peut donner cette Vie.
 

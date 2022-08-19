@@ -2,7 +2,8 @@
 layout: post
 title:  "La vérité doit renaître dans le coeur des hommes"
 date:   2012-08-04 10:57:19 +0200
-categories: vérité volume_I
+tags: fr
+categories: truth volume_I
 ---
 Le Monde est ainsi fait, la Vérité doit renaître dans le Cœur des hommes afin que leur esprit se libère, et qu’ils ouvrent les portes d’un futur radieux à l’Humanité. Ils n’ont pas le choix, tout le temps passé dans l’erreur est un temps perdu. Les principes de ce Monde leur seront rappelés autant de fois que nécessaire et ce jusqu’à ce qu’ils comprennent. Le mur est sans fin jusqu’à la porte de Lumière que seul les yeux ouverts peuvent voir.
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Savez-vous ce qu'est l'Ombre ?"
 date:   2012-08-18 10:57:19 +0200
-categories: vérité volume_I
+tags: fr
+categories: truth volume_I
 ---
 Les amuseurs de l’ésotérisme parlent beaucoup de “Lumière”. Tiens toi tu es dans la Lumière et moi aussi, mais pas lui. C’est un amusement pour certains. Les pseudosciences initiatiques parlent de techniques de respiration, de méditation, de postures, etc. Mais avant de parler de la Lumière, savez-vous ce qu’est L’Ombre ? Non ? C’est dommage car vous y êtes plongé depuis des siècles.
 

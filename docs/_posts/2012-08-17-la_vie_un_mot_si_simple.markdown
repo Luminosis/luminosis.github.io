@@ -2,7 +2,8 @@
 layout: post
 title:  "La Vie. Un mot si simple."
 date:   2012-08-17 10:57:19 +0200
-categories: vérité volume_I
+tags: fr
+categories: truth volume_I
 ---
 La Vie, c’est un mot simple. La Vie. La Vie. Un mot si simple. Regardez-le. Que pouvez-vous me dire de La Vie ? Avez-vous compris que La Vie comporte la Mort et sa sœur la Naissance ? Que si l’une est bonne alors l’autre est Juste. Le saviez-vous ?
 Que serait ce monde sans les graines et les semences ? Qu’y a-t-il de plus complexe, parfait, magique qu’une simple graine. Une si petite chose, si insignifiante, peut devenir un Chêne magnifique et multicentenaires. Mais comment donc la graine est-elle arrivée ? Pourquoi germe-t-elle dans la Terre baignée par le Soleil et l’Eau ? Vos explications scientifiques sont une description de la mécanique à son niveau le plus élémentaire qui soit. Vous n’avez encore rien compris ni encore découvert sur la puissance de la Terre, du Soleil et de l’Eau.

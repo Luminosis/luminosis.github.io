@@ -2,7 +2,8 @@
 layout: post
 title:  "Ne vois-tu pas comme une ombre dans tes pensées ?"
 date:   2012-08-21 10:57:19 +0200
-categories: vérité volume_I
+tags: fr
+categories: truth volume_I
 ---
 Qui es-tu toi pour te rire et médire de moi ? Réfléchis à ce que tu fais et ce qui t’incite à agir ainsi. Ne vois-tu pas comme une Ombre ? Ne vois-tu pas comme une chose noire qui glisse pernicieusement dans tes pensées jusqu’à prendre contrôle de ton Ego et de ton cerveau ?
 

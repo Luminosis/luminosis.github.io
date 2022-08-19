@@ -2,7 +2,8 @@
 layout: post
 title:  "Banissez le Noir de votre Coeur et de votre esprit"
 date:   2012-08-20 10:57:19 +0200
-categories: vérité volume_I
+tags: fr
+categories: truth volume_I
 ---
 Que voulez-vous Homme et Femme de cette Terre ? Pourquoi ne voulez-vous pas croire en Notre Père ? Est-ce cette peur au fond de vous qui vous dit que Croire serait révéler toutes vos fautes, vos bêtises et erreurs ?
 
