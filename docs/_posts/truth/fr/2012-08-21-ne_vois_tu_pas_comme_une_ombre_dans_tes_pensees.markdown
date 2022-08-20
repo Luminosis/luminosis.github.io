@@ -18,3 +18,7 @@ Si vous voulez l’Amour alors reprenez le contrôle de votre cerveau. Comme le 
 Le Pardon est ce qui vous permet de revenir sur votre chemin. Savoir Pardonner. Savoir Aimer. Les deux sont indissociables. Si vous ne savez pas pardonner alors vous n’avez strictement aucune idée de ce qu’est l’Amour. Pour revenir vers Notre Père, pour reprendre le contrôle de votre vie et apporter l’espoir à l’humanité commencez par vous plongez dans le Pardon…
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

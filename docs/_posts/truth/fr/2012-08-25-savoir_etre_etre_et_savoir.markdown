@@ -16,3 +16,7 @@ Ouvrez-les yeux ! Regardez. Réfléchissez. Ce que Notre Père vous a donné es
 La Connaissance que vous devez acquérir est là, sous vos yeux. Ouvrez-les ! Apprenez et vous pourrez enfin changer d’avenir.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

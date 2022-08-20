@@ -16,3 +16,7 @@ Nous avons ce pouvoir, armons nos Cœurs et partons au combat. Car c’est une l
 À moi mes Frères, mes Sœurs ! Le combat commence !
 
 Philippe 
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

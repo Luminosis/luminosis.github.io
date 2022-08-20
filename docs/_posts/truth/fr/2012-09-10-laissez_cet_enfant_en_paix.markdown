@@ -14,3 +14,7 @@ Comment n’arrivez-vous pas à comprendre le degré de Folie et de Démence auq
 Laissez ces enfants ! Laissez-les ! Tuez-vous entrevous si vous voulez, allez-y les fous des religions et exterminez-vous tous. Que bien vous en fasse ! Mais si en plus vous touchez à un cheveu de cet Enfant alors là misère de votre chemin sera sans nom jusqu’à ce que vous compreniez et vous pardonniez de votre folie ! Laissez cet Enfant ! Laissez-le être et devenir librement un Fils ou une Fille de Notre Père.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

@@ -14,3 +14,7 @@ Les femmes et les hommes de ce Monde sont unis par la matière et unis pas le sp
 Chaque geste, chaque pensée compte. Chaque Acte d’Amour est une œuvre pour le bonheur de l’humanité. Chaque prière dans le silence du Cœur allège le sort de l’humanité. L’Amour finira par l’emporter car c’est là la Volonté de Notre Père, et aussi de Notre Mère. L’humanité est libre de choisir l’Amour maintenant, ou bien ce sera une autre humanité qui le fera. Une autre humanité pour que le Règne de Notre Père vienne sur Terre comme il est aux Cieux.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

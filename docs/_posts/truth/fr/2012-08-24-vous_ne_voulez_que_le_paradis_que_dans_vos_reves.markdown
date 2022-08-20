@@ -16,3 +16,7 @@ Savez-vous que Notre Père lui veut un Monde de Paix, de Joie, d’Amour et beau
 Non. Il n’attendra pas sans fin. Il attend déjà depuis 2012 ans. Alors agissez. Agissez vite !
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

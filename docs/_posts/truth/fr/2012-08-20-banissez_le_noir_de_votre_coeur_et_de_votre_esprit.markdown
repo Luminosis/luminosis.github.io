@@ -17,3 +17,7 @@ La mort est un simple passage entre ce Royaume et le prochain, c’est tout.
 Méfiez-vous des hommes en noir. Méfiez-vous de ceux qui peuvent accepter cette couleur sur leur peau. Méfiez-vous de ceux qui vous offre des vêtements noirs, car, bien souvent, c’est là la couleur de leur Esprit et de leur Cœur. Bannissez le noir de vos Cœurs et de vos garde-robes. Revenez dans la Lumière de l’arc-en-ciel de la Vie et portez des couleurs qui appellent <font color="orange">La Paix</font>, <font color="green">La Joie</font> et <font color="red">L’Amour</font>.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

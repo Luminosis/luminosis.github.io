@@ -14,3 +14,7 @@ Puis il y a ceux qui ont perdu la Foi. Ceux qui ne croient plus en rien ou pire 
 Le chagrin et la tristesse sont des livres d’écoles, et une fois que vous avez compris ce qu’ils ont à vous dire, vous n’en avez plus besoin pour le restant de votre Vie.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

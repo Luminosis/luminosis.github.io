@@ -12,3 +12,7 @@ Qui êtes-vous ? Vous n’en n’avez pas vraiment idée. Ce que vous êtes est
 Oh ! Vous vous plaindrez, et demanderez dans vos prières à Notre Père de faire tout cela à votre place. Il n’en fera rien. Vous devriez le savoir rien qu’en regardant l’état de ce Monde. Vous êtes tous libres. À vous de faire ou bien de subir les conséquences. Notre Père vous présentera juste l’addition le jour venu, et plus l’humanité poursuivra sur ce chemin plus celui-ci deviendra dur et difficile. Vous êtes libres, libre de ne rien faire et souffrir, libre de travailler et de goûter alors à la Paix, la Joie et l’Amour.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

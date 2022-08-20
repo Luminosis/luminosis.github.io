@@ -14,3 +14,7 @@ Il y a une angoisse qui apparaît, car comment pouvez-vous vivre sans savoir ce 
 Notre Père est clément et miséricordieux, c’est là la force de son Amour, et de son Pardon vient la justice et la patience. Mais... oui : mais. Mais si vos actes font que la Volonté de Notre Père n’est plus sur le chemin alors il agira pour y remettre bon ordre. L’homme et la femme sont libres ; libres de choisir le chemin qui mène à réaliser la Volonté de Notre Père. Ils ne peuvent choisir que cela, car le reste, la Volonté de Notre Père est la Loi de l’Univers.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

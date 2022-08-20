@@ -14,3 +14,7 @@ Ne perdez pas trop de temps car voilà 2012 ans que Notre Père vous a envoyé s
 Souvenez-vous de l’Égypte ancienne. Trois mille ans de règne pour Notre Père, puis... disparue. Que croyez-vous qu’il se soit passé ? Croyez-vous qu’une civilisation de 3’000 ans s’effondre ainsi, aussi vite, comme cela ? Croyez-vous qu’une civilisation puisse tenir 3’000 ans sans avoir été, à un moment, l’enfant chéri de Notre Père ? Vous qui n’avez jamais rien fait qui ne dure tout au plus que quelques siècles souvenez-vous : 3’000 ans et plus rien.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

@@ -17,3 +17,7 @@ Qui a menti, qui a fomenté un coup bas contre autrui, qui a tué, qui a porté 
 Maintenant cela ne veut pas dire qu’il faille les accabler. Ce n’est pas aux hommes d’ajouter une autre sanction. La misère montre le chemin à suivre pour le Pardon, la Miséricorde et la Compassion. Celui qui aide l’homme dans la misère à comprendre et avancer vers Notre Père, celui-là est un Saint. Celui qui, en passant, donne à manger pensant sauver et réduire la misère est un homme bon, mais il est ignorant et n’a pas compris. Aidez les pauvres et les miséreux, mais si vous ne voulez plus de misère dans ce Monde alors changez. Changez vite, très vite, car le temps presse.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

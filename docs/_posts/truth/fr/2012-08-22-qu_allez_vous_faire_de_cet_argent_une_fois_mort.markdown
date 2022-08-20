@@ -15,3 +15,7 @@ Alors que courrez-vous après l’argent lorsque la Foi en Notre Père vous appo
 Réfléchissez. Que voulez-vous ? Beaucoup, beaucoup d’argent que vous ne pourrez dépenser durant votre seule existence dans la matière lourde ou bien tout ce dont vous avez rêvé et plus ? Le choix est-il si difficile ? Croire en Notre Père ou comme un âne suivre la carotte de l’argent ?
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

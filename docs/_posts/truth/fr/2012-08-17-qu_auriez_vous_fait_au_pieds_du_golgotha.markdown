@@ -14,3 +14,7 @@ Homme, Femme, que vous faut-il pour vous faire ouvrir les yeux ? Réfléchissez
 Ouvrez les yeux ! Ces écrits ne sont pas le fruit du hasard ou d’un mystique en panne d’inspiration. Qu’auriez-vous fait au pied du Golgotha ? Qu’auriez-vous fait si vous aviez siégé au Sanhédrin qui a condamné Jésus de Nazareth à mort en rendant un jugement plein de mensonges et de faux témoignages ! Vous n’avez pas vu les Larmes de Notre Père lorsque Jésus fut crucifié par “vos soins”. Homme, Femme, il suffit. Réfléchissez. Mais faites vite car sinon c’est Notre Père qui prendra la décision, et là... vous pourrez pleurer vos fils, vos femmes ainsi que vos frères et sœurs.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

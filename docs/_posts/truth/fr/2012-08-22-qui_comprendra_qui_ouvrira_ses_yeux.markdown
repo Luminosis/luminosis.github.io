@@ -14,3 +14,7 @@ Pensez-vous que vous êtes seul ? Croyez-vous vraiment qu’il n’existe “ri
 Comment voulez-vous connaître l’Amour, la Paix, la Joie et tout ce qui va avec ? Revenez vers Notre Père ! Oubliez les Religions car elles sont néfastes et dangereuses pour l’humanité. Revenez sincèrement dans le Silence de votre Cœur vers Notre Père et demandez-lui Pardon. Aidez-vous à faire de ce Monde un Paradis sur Terre. C’est possible ! Notre Père ne souhaite que cela ! Priez, agissez et cela sera !
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

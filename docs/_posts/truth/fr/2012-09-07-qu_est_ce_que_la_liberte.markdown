@@ -14,3 +14,7 @@ L’Âme peut vagabonder dans le temps et l’espace, dans l’infini qu’autor
 L’humanité est libre d’apprendre et réussir ou bien de dilapider et périr. Le choix est entre vos mains…
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

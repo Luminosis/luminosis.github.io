@@ -16,3 +16,7 @@ Ah mais qu’est-ce donc que le Sang du Christ ? Vous voilà bien curieux ! La
 Ouvrez-vos yeux ! Ouvrez-vos Cœurs ! Alors vous comprendrez ce qu’est le Sang du Christ. Le Christ est “ce qui est et a toujours été”. Le Christ est l’essence de Notre Père. Voilà pour aujourd’hui… seul ceux qui ont compris pourront comprendre le reste. Si vous n’y arrivez pas, ne vous découragez pas et entreprenez un grand travail de nettoyage de votre Vie pour revenir sur votre chemin. Ce chemin que vous aviez promis de suivre en venant sur Terre.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

@@ -14,3 +14,7 @@ Qui je suis n’a pas d’importance et ne doit pas en avoir. Ce qui est importa
 Ne vous occupez donc pas de moi. Utilisez ce que je vous écris pour réfléchir, comprendre, travailler et vous mettre en chemin car le temps presse…
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

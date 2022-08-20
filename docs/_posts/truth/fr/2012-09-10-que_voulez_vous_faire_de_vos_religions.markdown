@@ -20,3 +20,7 @@ Qu’avez-vous besoin d’Église, de Temple et autre ? Vous avez le plus grand
 Mes frères et mes sœurs, libérez-vous des religions, c’est elles qui ont conduit ce Monde vers son Apocalypse. Revenez vers Notre Père avec votre Cœur, Intelligence et Raison. Laissez Notre Père s’occuper de ces fous des religions. L’Amour, mettez l’Amour dans votre Cœur et revenez vers Notre Père
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

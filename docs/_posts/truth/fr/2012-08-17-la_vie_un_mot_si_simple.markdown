@@ -13,3 +13,7 @@ L’humanité n’a besoin d’aucune autre source d’énergie que celle que l�
 « Fadaises ! » me direz-vous. « Quel fou ! » penseront d’autres. Très bien Messieurs. Jugez-moi, comme d’autres ont jugé et ont leur nom dans la Bible. Ah, mais vous croyez à ce qui est écrit dans la Bible ! Il est facile a posteriori de croire et d’avoir la Foi. Si facile. Maintenant êtes-vous capable d’entendre la Vérité lorsqu’elle se présente à vous ? Êtes-vous capable d’offrir vos oreilles à la Vérité ? Le jour ou votre Bible vous tombera des mains, le jour ou le Vatican ne sera plus, le jour ou Notre Père en aura assez de cette humanité qui ne veut l’écouter, alors là, oui, peut-être commencerez-vous à Croire. Il sera trop tard pour maintenant, mais il vous restera tout votre chemin pour vous faire pardonner.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

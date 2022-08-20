@@ -22,3 +22,7 @@ Que vous faut-il ? Une planète de béton, froide, sans eau, sans lumière, san
 Relisez ou lisez la Bible. Lisez. Souvenez-vous des *Pasteurs d’Israël* (Ezéchiel). Un nouvel Israël naîtra. Un nouveau David. Et cette fois Notre Père sera des plus vigilant. Il ne vous fait plus confiance. Il vous faudra prouver avant de rejoindre ses brebis. Voila là ou vos bêtises vous ont mené. Et ne croyez surtout pas que ce nouvel Israël ait quoique ce soit à voir avec ce pays que vous appelez Israël. La violence, les armes, la haine, la guerre, le sang, rien de cela ne peux être l’Israël de Notre Père. Rien de cela !
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

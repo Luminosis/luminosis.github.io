@@ -17,3 +17,7 @@ Vous pouvez prier quelques minutes ou des heures cela n’a pas d’importance. 
 Apprenez à remercier Notre Père pour ce qui vous est donné, car tout ce que Notre Père met sur votre chemin il le fait par Amour, par Amour pour vous. Notre Père est Amour et sa Volonté ne peut procéder que l’Amour.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

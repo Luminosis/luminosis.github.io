@@ -25,3 +25,7 @@ Relisez bien. Notre Père est Amour !
 Alors posez ces machines infernales, arrêtez ses guerres qui ne font aucun sens et écoutez le chant de l’oiseau qui viendra se poser à côté de vous.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

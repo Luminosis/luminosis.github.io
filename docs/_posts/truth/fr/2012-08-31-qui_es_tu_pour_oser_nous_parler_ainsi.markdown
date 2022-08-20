@@ -18,3 +18,7 @@ D’autre part, vous ne savez pas le travail - oui, le travail - que j’ai entr
 Croyez-moi fou, dites ce que vous voulez de moi, que bien vous en fasse. Notre Père sait qui je suis. Je sais ce que je dois faire pour lui, et je le ferais dans l’Amour, la Paix et la Joie pour tenter d’aider cette humanité.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

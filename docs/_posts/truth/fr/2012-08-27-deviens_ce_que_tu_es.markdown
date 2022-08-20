@@ -12,3 +12,7 @@ Vaste question et pourtant la réponse est des plus simple. Vous êtes des Fils 
 Lâchez votre Ego, juste un tout petit peu et vous découvrirez… la Vérité… de ce que vous êtes.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

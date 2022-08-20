@@ -17,3 +17,7 @@ De quoi ce Monde a-t-il besoin ?<br>
 Regardez dans votre Cœur. Enlevez cette gangue noire de haine, de violence, de sang, de colère et de jalousie dans laquelle vous l’avez emprisonné et regardez. Vous y verrez ce que vous êtes. Vous y verrez ce dont ce Monde a besoin. Vous y verrez ce que vous pourriez avoir si seulement, oui si seulement… si vous le vouliez vraiment.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

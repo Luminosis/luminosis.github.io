@@ -21,3 +21,7 @@ Est-ce un livre réservé aux clients de vos hôpitaux psychiatriques ? Est-ce 
 Ceux en qui et ce en quoi vous croyez seront votre fin ou votre avenir. À vous de choisir.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

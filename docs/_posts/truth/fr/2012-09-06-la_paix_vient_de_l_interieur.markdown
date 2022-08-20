@@ -12,3 +12,7 @@ Vous rêvez de Paix. Vous rêvez de ce grand silence de Joie sur le Monde. Vous 
 Notre Père lui, il peut refaire cette humanité le jour il jugera que la situation n’est plus tenable. Funeste jour. À nous hommes et femmes de faire ce que nous avons à faire pour que non seulement ce jour n’arrive jamais, mais surtout donner la Paix, la Joie et l’Amour à ce Monde.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

@@ -15,3 +15,7 @@ Mais par-delà cette peur il y a l’Amour. Cette force d’une puissance sans �
 L’Amour vous fait-il si peur ?
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

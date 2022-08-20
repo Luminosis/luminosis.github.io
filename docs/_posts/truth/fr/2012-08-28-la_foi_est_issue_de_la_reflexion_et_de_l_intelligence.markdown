@@ -19,3 +19,7 @@ Alors travaillez, cherchez, lisez, réfléchissez, tout est sous vos yeux et vou
 <br>
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

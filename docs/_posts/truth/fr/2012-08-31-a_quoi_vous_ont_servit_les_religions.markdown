@@ -19,3 +19,7 @@ Ouvrez vos yeux ! Ouvrez vos yeux ! Ouvrez vos yeux !
 Il suffit des religions, elles vous mènent avec le sourire droit à l’Apocalypse…
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

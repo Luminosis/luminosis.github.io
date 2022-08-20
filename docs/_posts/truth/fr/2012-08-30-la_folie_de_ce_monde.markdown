@@ -14,3 +14,7 @@ Qui viendra te sauver de cette folie ? Qui viendra te présenter le prix de ce 
 Il te reste peu de temps pour réaliser la folie qui s’est emparée de ce Monde. Ce que vous dites “normal” : la guerre, la violence, la haine, les armes, le sang, etc., n’est qu’horreur. Agissez. Agissez, vite...
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->

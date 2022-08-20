@@ -17,3 +17,7 @@ Ah oui, il manque l’Église me direz-vous en me disant “mystique”. Les rel
 Donc qu’avez-vous comme contre-philosophie complète à opposer ? Réfléchissez. Regardez le Monde. Regardez-vous et réfléchissez.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->
