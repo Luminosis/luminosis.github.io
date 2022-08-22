@@ -14,3 +14,7 @@ N’essayez pas de capturer la Beauté, laissez-là être. Ne courrez plus aprè
 La Beauté est dans le moment présent, dans l’instant, c’est ce qui fait sa force, sa puissance, son arôme et sa saveur. Si vous regardez la Beauté d’hier, elle n’est plus. Si vous regardez la Beauté de demain, elle n’est pas. Alors regardons ensemble la Beauté de se lever de soleil, toujours renouvelé, jamais identique et si Beau dans cet instant éphémère.
 
 Philippe
+
+<!-- 
+Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
+-->
