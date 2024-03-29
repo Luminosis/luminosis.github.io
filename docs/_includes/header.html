@@ -1,8 +1,19 @@
+
 <header class="site-header">
 
   <div class="wrapper">
 	<a href="{{ site.baseurl }}/"><img src="/assets/main_luminosis.png" alt="Luminosis"></a>
-    <a class="site-title" href="{{ site.baseurl }}/">Accueil</a>
+    <!-- a class="site-title" href="{{ site.baseurl }}/">Accueil</a -->
+
+    <nav class="language-nav">
+      <div class="dropdown">
+        <div class="dropdown-content">
+		<a href="{{ site.baseurl }}/en/" class="flag-icon flag-icon-gb"></a>
+		<a href="{{ site.baseurl }}/fr/" class="flag-icon flag-icon-fr"></a>
+  <!-- Add more language options as needed -->
+        </div>
+      </div>
+    </nav>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,7 +25,8 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
+       {% assign lang_pages = site.pages | where: "lang", page.lang | sort: "order" %}
+       {% for page in lang_pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}

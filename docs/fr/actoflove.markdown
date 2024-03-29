@@ -1,9 +1,10 @@
 ---
 layout: page
-title: La Nature
-permalink: /nature/fr/
-tag-name: nature
+title: L'Acte d'Amour 
+permalink: /actoflove/fr/
+tag-name: actoflove
 lang: fr
+order: 2
 ---
 
   <ul class="post-list">
@@ -11,7 +12,7 @@ lang: fr
 		{% if post.categories contains page.tag-name %}
 			{% if post.tags contains page.lang %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: " %Y, %b %-d" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
@@ -23,3 +24,4 @@ lang: fr
   </ul>
   
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+

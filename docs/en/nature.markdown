@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Le Corps 
-permalink: /body/fr/
-tag-name: body 
-lang: fr
+title: The Nature
+permalink: /nature/en/
+tag-name: nature
+lang: en
+order: 4
 ---
 
   <ul class="post-list">
@@ -11,7 +12,7 @@ lang: fr
 		{% if post.categories contains page.tag-name %}
 			{% if post.tags contains page.lang %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%Y, %b %-d" }}</span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>

@@ -1,6 +1,24 @@
 ---
 layout: default
 ---
+
+<div class="post">
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% if post.categories contains page.tag-name and post.tags contains page.lang %}
+      <li>
+        <span class="post-meta">{{ post.date | date: " %Y, %b %-d" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
+<!--
 <div class="post">
 
   <header class="post-header">
@@ -12,3 +30,4 @@ layout: default
   </article>
 
 </div>
+-->

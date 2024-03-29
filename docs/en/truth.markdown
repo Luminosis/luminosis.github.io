@@ -1,11 +1,12 @@
 ---
 layout: page
-title: La Métaphysique 
-permalink: /metaphysic/fr/
-tag-name: metaphysic 
-lang: fr
+title: The Truth
+permalink: /truth/en/
+tag-name: truth
+lang: en
+order: 3
 ---
-
+	
   <ul class="post-list">
 	{% for post in site.posts %}
 		{% if post.categories contains page.tag-name %}
@@ -21,5 +22,5 @@ lang: fr
 {% endif %} 
 {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

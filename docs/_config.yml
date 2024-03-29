@@ -20,17 +20,22 @@
 
 title: Luminosis 
 email: contact@luminosis.org 
-description: >- # this means to ignore newlines until "baseurl:"
+description_fr: >- # this means to ignore newlines until "baseurl:"
   La Vie est la maison de l'Amour, de la Paix et de la Joie. La Vérité enfante les mondes et la Pureté s'en empare pour donner naissance à la Lumière. Ainsi naissent les mondes du Royaume de Notre Père.
+description_en: >- # this means to ignore newlines until "baseurl:"
+  Life is the home of Love, Peace, and Joy. Truth gives birth to worlds, and Purity seizes them to give birth to Light. Thus are born the worlds of the Kingdom of Our Father.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: luminosis.github.io
 url: "https://luminosis.github.io/" 
 github_username: luminosis 
 paginate: 10
+lang: en
+
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

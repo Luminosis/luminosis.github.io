@@ -1,23 +1,29 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
+      <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</li>
+          <li>
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+            </a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+          </li>
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-2">
+      <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-
+          <li><a href="https://twitter.com/LuminosisPh"><i class="fab fa-twitter"></i> Twitter</a></li>
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+      <div class="footer-col footer-col-3">
+        {% if page.lang == 'en' %}
+          <p class="text">{{ site.description_en }}</p>
+        {% elsif page.lang == 'fr' %}
+          <p class="text">{{ site.description_fr }}</p>
+        {% endif %}
       </div>
     </div>
-
   </div>
+</footer>

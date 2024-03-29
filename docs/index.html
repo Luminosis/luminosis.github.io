@@ -2,32 +2,44 @@
 layout: default
 ---
 
-<div class="home">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    // Function to get browser's preferred language
+    function getPreferredLanguage() {
+      var languages = navigator.languages || [navigator.language || navigator.userLanguage];
+      return languages.map(function(language) {
+        return language.split('-')[0];
+      });
+    }
 
-<p>
-<center>
-Ces pages sont dédiées aux Femmes et aux Hommes de notre Terre.<br><br>
+    // Map of languages and their corresponding pages
+    var languageMap = {
+      'en': '/en/index.html',
+      'fr': '/fr/index.html',
+      // Add more languages and their respective pages as needed
+    };
 
-Vous qui cherchez la Lumière.<br><br>
+    // Redirect to the default language page
+    var preferredLanguages = getPreferredLanguage();
+    for (var i = 0; i < preferredLanguages.length; i++) {
+      var language = preferredLanguages[i];
+      if (language in languageMap) {
+        window.location.href = languageMap[language];
+        break;
+      }
+    }
 
-Vous qui entendez dans votre Coeur battre cet appel.<br><br>
-
-Vous qui Aimez.<br><br>
-
-Vous qui voulez un autre demain pour l’Humanité.<br><br>
-
-Ce livre est pour vous.<br><br>
-
-C’est mon cadeau à vous mes Frères et mes Soeurs.<br><br>
-
-Lisez le, partagez le, diffusez la bonne nouvelle...<br>
-<br>
-Philippe
-</center>
-</p>
-
-<br><br>
-<p>
-<a href="https://anchor.fm/luminosis">Podcast</a>  |  <a href="http://books.apple.com/us/book/id792696042">Livre: "La Philosophie de l'Amour"</a>
-</center>
-</div>
+    // If no preferred language matches, redirect to English as default
+    window.location.href = languageMap['en'];
+  </script>
+</head>
+<body>
+  <p>If you are not redirected automatically, <a href="/en/index.html">click here</a>.</p>
+</body>
+</html>

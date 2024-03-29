@@ -3,6 +3,8 @@ layout: post
 title:  "L'Acte d'Amour"
 date:   2012-08-13 10:57:19 +0200
 tags: fr
+lang: fr
+ref: actoflove-2012-08-13-1
 categories: actoflove volume_I
 ---
 L’Amour.
