@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Act of Love
+title: Act of Love
 permalink: /actoflove/en/
 tag-name: actoflove
 lang: en

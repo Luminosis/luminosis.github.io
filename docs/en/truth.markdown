@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Truth
+title: Truth
 permalink: /truth/en/
 tag-name: truth
 lang: en

@@ -24,7 +24,7 @@ L’Acte d’Amour entre deux êtres est ce qu’il y a de plus magique et Beau.
 
 La sexualité est un plaisir indispensable de la Vie. Ceux qui la récrimine, l’interdise, la bannisse ou la salisse n’ont rien compris aux intentions de Notre Père. Les religions et les puritains de tous bords sont des fous qui ont tout oublié des messages de Notre Père.
 
-Mais comprenons-nous bien. La sexualité fait partie de l’Acte d’Amour. La sexualité pour la sexualité transforme un homme ou une femme en l’animal le plus bas et le plus vil que la Terre ait jamais porté.
+Mais comprenons-nous bien. La sexualité ne peut exister que comme une partie de l’Acte d’Amour. La sexualité pour la sexualité transforme un homme ou une femme en l’animal le plus bas et le plus vil que la Terre ait jamais porté.
 La sexualité, oui, sous toutes ses formes entre un homme et une femme, sous toutes les façons qui conviendront à cet homme et à cette femme. J’insiste très lourdement sur le “et”, car l’Acte d’Amour est par essence une réunion de deux êtres - et uniquement deux -, un partage.
 
 Prenez plaisir, homme et femme de ce Monde. Profitez de l’Amour. Apprenez à vous aimez, en commençant par ce qui est indispensable à tout être : un compagnon ou une compagne.

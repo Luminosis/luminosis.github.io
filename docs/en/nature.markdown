@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Nature
+title: Nature
 permalink: /nature/en/
 tag-name: nature
 lang: en
