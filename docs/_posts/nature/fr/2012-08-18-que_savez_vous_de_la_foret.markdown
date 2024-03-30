@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Que savez-vous de la forêt ?"
+title:  "Que savez-vous de la Forêt ?"
 date:   2012-08-18 10:57:19 +0200
 tags: fr
 categories: nature volume_I
 ---
-Une forêt. Que savez-vous de la Forêt ? Que comprenez-vous des civilisations de la forêt ? Vous n’avez même pas encore découvert cette civilisation que vous la détruisez sauvagement. Regardez un arbre. Il respire, non ? Il est enraciné dans la Terre dont il tire sa force. Le vent le caresse. Le Soleil le nourrit. Ne serait-ce pas là un Enfant de Notre Père ?
+Une Forêt. Que savez-vous de la Forêt ? Que comprenez-vous des civilisations de la forêt ? Vous n’avez même pas encore découvert cette civilisation que vous la détruisez sauvagement. Regardez un arbre. Il respire, non ? Il est enraciné dans la Terre dont il tire sa force. Le vent le caresse. Le Soleil le nourrit. Ne serait-ce pas là un Enfant de Notre Père ?
 
 À chaque arbre abattu lui avez-vous expliqué pourquoi l’humanité avait besoin de sa chair ? Regardez un arbre. Asseyez-vous devant et regardez le très attentivement. Que voyez-vous ? Un tronc ? Un être vivant ?
 
