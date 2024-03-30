@@ -3,6 +3,8 @@ layout: post
 title:  "Le mensonge et la vérité"
 date:   2012-09-03 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Le mensonge et la vérité. Le mensonge fait parti de la vie de beaucoup trop d’hommes et de femmes de ce Monde. Cela commence toujours par un petit mensonge, il semble si insignifiant, si anodin, mais en fait c’est une semence, une graine qui, si vous la nourrissez par d’autres mensonges et actes, deviendra rapidement un baobab de fléaux pour votre Cœur.

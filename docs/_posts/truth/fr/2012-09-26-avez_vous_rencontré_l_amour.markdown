@@ -3,6 +3,8 @@ layout: post
 title:  "Avez-vous rencontré l'Amour ?"
 date:   2012-09-26 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Avez-vous rencontré l’Amour sur votre chemin ? Le temps a-t-il suspendu son vol pendant que vos simulacres volaient entre vous deux - elle et lui ?

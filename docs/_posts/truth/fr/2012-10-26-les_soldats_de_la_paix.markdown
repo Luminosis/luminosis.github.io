@@ -3,6 +3,8 @@ layout: post
 title:  "Les soldats de la Paix"
 date:   2012-10-26 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Les soldats de la Paix existent dans votre Cœur, leur arme est l’Amour, leur force est La Lumière. Ils mènent un âpre combat contre l’Ego et, même s’ils perdent les batailles de cette existence ci, ils finiront par prévaloir.

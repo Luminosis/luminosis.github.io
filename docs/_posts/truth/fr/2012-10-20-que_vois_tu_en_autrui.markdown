@@ -3,6 +3,8 @@ layout: post
 title:  "Que vois-tu en autrui ?"
 date:   2012-10-20 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que vois-tu en autrui ? Y vois-tu un ennemi ? Un mécréant ? Y vois-tu une vie sans valeur ? Y vois-tu un Corps à posséder par le sexe ? Y vois-tu la laideur ? Qu’y vois-tu ?

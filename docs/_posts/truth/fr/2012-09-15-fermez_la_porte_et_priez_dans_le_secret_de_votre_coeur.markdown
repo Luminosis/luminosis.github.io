@@ -3,6 +3,8 @@ layout: post
 title:  "Fermez la porte et priez dans le secret de votre Coeur"
 date:   2012-09-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qu’avez-vous besoin de ces rites, de ces lieux, de ces prêtres et fous des religions ? N’avez-vous donc pas lu ou entendu ce qui vous a été dit il y a 2012 ans ? N’avez-vous pas lu que ceux qui font tout un tintamarre pour prier devant les autres ne sont pour beaucoup que des hypocrites ? N’avez-vous donc pas lu que ceux qui ne savent jeûner dans le secret de leur Cœur ne sont pour beaucoup que des hypocrites ? Relisez le Sermon sur la Montagne de Jésus de Nazareth.

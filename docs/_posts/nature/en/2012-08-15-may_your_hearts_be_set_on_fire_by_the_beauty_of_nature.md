@@ -3,6 +3,7 @@ layout: post
 title: "Let your hearts ignite with the beauty of nature"
 date: 2012-08-15 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Like a sunrise, the world must ignite with its own beauty. The sky of your thoughts must become this infinite of colors, let the warmth and softness slowly imbue you, then close your eyes and feel this energy.

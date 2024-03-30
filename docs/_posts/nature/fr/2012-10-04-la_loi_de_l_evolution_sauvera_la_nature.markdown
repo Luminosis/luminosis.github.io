@@ -3,6 +3,8 @@ layout: post
 title:  "La loi de l'Evolution sauvera la Nature"
 date:   2012-10-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Va et regarde la Nature. Regarde-la bien car demain elle ne sera plus la même. Recommence demain car elle aura encore changé, puis recommence tous les jours car elle évolue sans fin. L’Évolution est la règle de la Nature. La Loi de l’Évolution est inscrite dans la Nature telle que l’a créée Notre Père.

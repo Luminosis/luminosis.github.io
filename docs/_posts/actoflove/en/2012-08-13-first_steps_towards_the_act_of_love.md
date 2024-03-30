@@ -3,6 +3,7 @@ layout: post
 title: "First steps towards the Act of Love"
 date: 2012-08-13 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 So man, woman, you want to feel this orgasm of Love. You want to know how to achieve it. The smooth talkers and those who flaunt their breasts, buttocks, and penis wonder if there is something stronger than a miserable ejaculation and a little bit of vaginal fluid?

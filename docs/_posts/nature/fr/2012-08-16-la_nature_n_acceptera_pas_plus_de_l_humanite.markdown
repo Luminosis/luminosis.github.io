@@ -3,6 +3,8 @@ layout: post
 title:  "La Nature n'acceptera pas plus de l'humanité"
 date:   2012-08-16 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 L’ombre de l’arbre apporte la douceur et la fraîcheur. La lumière du Soleil fournie cette immense clarté qui illumine la Nature. Les deux vont ensemble et forment une Beauté de ce qui est dans le moment présent à la fois une chaleur et une fraîcheur. La Nature sait être tout en même temps. Chacun y trouve ce dont il ou elle a besoin à cet instant.

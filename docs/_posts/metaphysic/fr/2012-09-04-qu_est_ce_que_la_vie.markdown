@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'est ce que la Vie ?"
 date:   2012-09-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 La Vie. Qu’est-ce que la Vie ? Savez-vous définir la Vie ? Savez-vous décrire ce qui fait la Vie et sa Sœur La Mort ? Comprenez-vous que la Mort fait partie intégrale de la Vie ? Qu’est-ce donc que cette chose étrange : la Vie ? Pourquoi, quand et comment le cœur d’un bébé se met-il à battre ? Pourquoi cette graine germe-t-elle ici et pas là-bas ? Pourquoi ce papillon ? Pourquoi cette abeille ? Oui, pourquoi autant de vie dans la Nature ?

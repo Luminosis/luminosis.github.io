@@ -3,6 +3,8 @@ layout: post
 title:  "A qui appartient ce caillou ?"
 date:   2012-09-10 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 À qui appartient ce caillou ? Oui à qui est-il ? À toi ? À moi ? À ce pays ? Non, à cette nation-là ? Veux-tu me faire la guerre pour savoir à qui appartient ce caillou ?

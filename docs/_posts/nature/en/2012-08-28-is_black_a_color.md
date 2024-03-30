@@ -3,6 +3,7 @@ layout: post
 title: "Is Black a Color?"
 date: 2012-08-27 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Is black a color? If it were, then it would be part of the Rainbow of Life. The Sun would send out black frequencies with its Light, but it does not. Why?

@@ -3,6 +3,8 @@ layout: post
 title:  "Le sommeil pourquoi faire ?"
 date:   2012-10-05 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 À quoi pensez-vous le soir en vous endormant ? Comprenez-vous le sens de la journée que vous venez de passer ? À quoi sert le sommeil ? Pourquoi le sommeil est-il important pour les uns et moins pour les autres ? Qu’est-ce qu’un rêve ? Qu’est-ce qu’un cauchemar ? Que se passe-t-il lorsque le Corps s’enfonce dans le sommeil ?

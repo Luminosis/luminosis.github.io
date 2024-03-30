@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'est-ce que la Liberté ?"
 date:   2012-09-07 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qu’est-ce que la Liberté ? Que croyez-vous sur la Liberté ? Est-ce le droit de faire tout et n’importe quoi ? Est-ce le droit de tuer, de violer, de porter des armes, d’anéantir des espèces, de brûler les forêts jusqu’au dernier arbre ? Est-ce là la définition de la Liberté ? La Liberté comme droit et excuse pour faire ce qui vous plaît, répandre le mal, faire couler le Sang, inciter à la haine, provoquer la violence et l’intolérance, générer la jalousie, etc. ? Oh qu’elle est belle cette Liberté ! Il y a des bourreaux plus heureux que les hommes qui pensent que la Liberté est ainsi.

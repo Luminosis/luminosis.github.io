@@ -3,6 +3,7 @@ layout: post
 title: "The Fidelity of Love"
 date: 2012-08-16 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Absolute fidelity is the only thing you owe to Our Father. The fidelity that everyone owes to their partner is that of Love. There is no other relationship between living beings than that of Love.

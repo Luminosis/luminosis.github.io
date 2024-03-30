@@ -3,6 +3,8 @@ layout: post
 title:  "Mangez mon corps, buvez mon sang"
 date:   2012-08-20 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 *“Mangez mon corps, buvez mon sang”*. Que comprenez-vous à ce qu’a dit Jésus de Nazareth ? Avez-vous compris ce qu’est le Corps du Christ ? Avez-vous compris ce qu’est le Sang du Christ ? Avez-vous même compris la différence entre Jésus de Nazareth et le Christ et pourquoi ils ont fusionné ? Non ? Et bien travaillez et réfléchissez.

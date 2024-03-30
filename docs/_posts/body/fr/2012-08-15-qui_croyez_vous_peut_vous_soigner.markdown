@@ -3,6 +3,8 @@ layout: post
 title:  "Qui croyez-vous peut vous soigner ?"
 date:   2012-08-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 Vous avez mal, vous souffrez, les médicaments des hommes vous abrutissent et vous allez droit vers la mort. Vous ne savez pas pourquoi. Vous ne savez pas comment vous soigner. Une existence de perdue par bêtise, ignorance et vanité d’un corps médical sans Foi.

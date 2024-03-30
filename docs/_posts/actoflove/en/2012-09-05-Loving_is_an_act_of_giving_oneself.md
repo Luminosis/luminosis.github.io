@@ -3,6 +3,7 @@ layout: post
 title: "To love is an act of self-giving"
 date: 2012-09-05 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Love and Devotion. Love and Altruism. Love is not for oneself, not directly. Love is for others. Love is for humanity and this world. The Love we give, that we generate through our Forgiveness, comes back to us indirectly through ricochets and rebounds. Love generates Love, and it is this second Love that we receive in return.

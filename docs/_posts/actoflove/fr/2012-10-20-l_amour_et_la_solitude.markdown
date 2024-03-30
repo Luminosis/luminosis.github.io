@@ -3,6 +3,9 @@ layout: post
 title:  "L'Amour et la Solitude"
 date:   2012-10-20 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Savoir Aimer c’est savoir que l’on est Amour comme Notre Père est Amour. L’homme a été créé à Son image et l’homme est Amour. L’homme porte l’Amour éternel de Notre Père en lui.

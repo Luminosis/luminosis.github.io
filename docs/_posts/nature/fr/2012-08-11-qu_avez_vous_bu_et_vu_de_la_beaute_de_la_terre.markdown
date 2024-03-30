@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'avez-vous bu et vu de la beauté de la Terre ?"
 date:   2012-08-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 De la Beauté que vous avez sous les yeux, qu’avez-vous bu et vu ?<br>

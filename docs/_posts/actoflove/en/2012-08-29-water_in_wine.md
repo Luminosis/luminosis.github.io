@@ -3,6 +3,7 @@ layout: post
 title: "So this Act of Love?"
 date: 2012-08-29 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Do you know Pierre Desproges? So you're thinking that this Philippe is the last of the crazies! He's going on about the Our Father, Onfray, Epicureanism, the Bible, and now Desproges!

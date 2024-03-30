@@ -3,6 +3,7 @@ layout: post
 title: "Where is the energy of Love located?"
 date: 2012-09-25 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Where is the energy of Love in this World and in the Universe? Our Father is Love and Christ is the essence of Our Father, but where does it reside? Well, it is everywhere because it is the Void, where the subtle matter is. Everything is Love because Love is the Universe of subtle matter.

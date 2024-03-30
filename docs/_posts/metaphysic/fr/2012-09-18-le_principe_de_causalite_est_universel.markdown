@@ -3,6 +3,8 @@ layout: post
 title:  "Le principe de causalité est universel"
 date:   2012-09-18 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Qu’apporte le pragmatisme et le raisonnement empirique à l’humanité ? Comment l’humanité procède-t-elle pour découvrir le Monde et progresser depuis qu’elle est ? Quelle source est utilisée par l’humanité pour chercher des solutions et avancer ? Réfléchissez. Quelle est la première chose que le premier homme a eue sous ses yeux ? Qu’est-ce qui jour après jour est là sous ses yeux et lui permet de vivre, de se soigner, de comprendre pourquoi il est ? Oui, La Nature.

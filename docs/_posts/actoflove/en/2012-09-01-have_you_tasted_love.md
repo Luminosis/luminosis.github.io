@@ -2,7 +2,8 @@
 layout: post
 title: "Have you tasted Love?"
 date: 2012-09-01 10:57:19 +0200
-tags: fr
+tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Have you tasted Love? Have you tried to touch the full power of Love? Love that nourishes. Love that moves mountains. Love that transforms suffering into Love. Love that purifies impure water. Love that makes you touch the foundation of the entire Universe.

@@ -3,6 +3,8 @@ layout: post
 title:  "Vous récoltez ce que vous semez"
 date:   2012-08-22 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Dans la douceur, dans l’Amour, dans la vie... partout ou vous porterez des yeux pleins de la Lumière et de l’Amour vous verrez Notre Père. Que croyez-vous que ce Monde soit ? Un lieu noir et infesté de criminels ? Un lieu qui pourrait être le Royaume de Notre Père si seulement vous vous en donniez la peine ?

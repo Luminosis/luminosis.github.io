@@ -3,6 +3,8 @@ layout: post
 title:  "L'Ego et les religions"
 date:   2012-10-06 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Devenir qui l’on est, c'est ce qu’il y a de plus simple et difficile en ce Monde. Ce que vous êtes seul Notre Père et vous le savez. Lui le sait et c’est donc à vous de le retrouver, d’entendre ce que votre Cœur vous dit et que votre Ego s’efforce de dissimuler.

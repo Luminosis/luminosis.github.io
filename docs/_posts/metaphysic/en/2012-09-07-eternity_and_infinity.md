@@ -3,6 +3,7 @@ layout: post
 title: "Eternity and Infinity"
 date: 2012-09-07 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Eternity and infinity. What do you understand today about these two fundamental elements of the Universe? What is eternity? Can you measure it with an instrument? What is infinity? Can you capture a particle of infinity with an instrument? It is impossible to understand this World, the Universe, and the rest without having properly grasped eternity and infinity.

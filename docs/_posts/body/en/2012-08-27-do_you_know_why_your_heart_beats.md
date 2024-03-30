@@ -3,6 +3,7 @@ layout: post
 title: "Do you know why your Heart beats?"
 date: 2012-08-27 10:57:19 +0200
 tags: en
+lang: en
 categories: body volume_I
 ---
 Do you know why your Heart contracts and expands to circulate blood? It's a muscle with nerves, you might say. Well, that explains the how, the mechanics, but not the why. Why does it sometimes stop like that too? You know, "his heart stopped beating".

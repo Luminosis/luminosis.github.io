@@ -3,6 +3,7 @@ layout: post
 title: "Nature will no longer accept humanity"
 date: 2012-08-16 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 The shadow of the tree brings softness and freshness. The sunlight provides this immense brightness that illuminates Nature. The two go together and form a Beauty of what is in the present moment, both warmth and coolness. Nature knows how to be everything at once. Everyone finds what they need at that moment.

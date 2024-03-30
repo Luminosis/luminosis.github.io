@@ -3,6 +3,9 @@ layout: post
 title:  "Le Pardon est la porte vers l'Amour"
 date:   2012-09-04 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 L’Acte d’Amour. Aimer. Pardonner. Oui, pardonner. Ne cherchez pas l’Amour si vous ne savez pas Pardonner. Vous ne trouverez pas l’Amour tant que vous n’aurez pas compris la puissance sans fin du Pardon. Si l’Amour fait trembler les montagnes alors le Pardon les fait s’envoler.

@@ -3,6 +3,8 @@ layout: post
 title:  "Etre Aimé et savoir Aimer"
 date:   2012-10-26 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Pour être aimé il faut avant tout savoir Aimer.

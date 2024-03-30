@@ -3,6 +3,7 @@ layout: post
 title: "Emptiness and Atoms"
 date: 2012-08-23 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Emptiness and atoms. Atoms and emptiness. Do you know how much emptiness and how many atoms are in your body? And why is this atom, yes, this one and not another, next to this one and not another?

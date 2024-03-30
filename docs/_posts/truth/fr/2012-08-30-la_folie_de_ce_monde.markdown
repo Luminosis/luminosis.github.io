@@ -3,6 +3,8 @@ layout: post
 title:  "La Folie de ce Monde"
 date:   2012-08-30 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Homme qui es-tu pour dire que Notre Père est une invention vieillotte et qu’il est temps de brûler la Bible ? Qu’as-tu retenu de l’histoire de l’humanité ? Les vingt dernières années et depuis Internet il n’y a plus besoin de Foi ?

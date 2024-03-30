@@ -3,6 +3,8 @@ layout: post
 title:  "'Que Dieu bénisse ma soeur la mort'"
 date:   2012-08-18 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Mort. Vous parlez beaucoup de la Vie. A-t-elle un sens ? Que veut-elle dire ? À quoi sert-elle ? Pourquoi vit-on ? Mais avez-vous simplement déjà compris ce qu’est la Mort ?

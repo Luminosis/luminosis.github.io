@@ -3,6 +3,7 @@ layout: post
 title: "Do you believe in Miracles?"
 date: 2012-09-26 10:57:19 +0200
 tags: en
+lang: en
 categories: body volume_I
 ---
 Do you believe in Miracles? Do you believe in what the Bible says about Jesus of Nazareth? Do you believe that the Soul can act on the Body? Do you believe that it is possible to heal all the Diseases of the Body?

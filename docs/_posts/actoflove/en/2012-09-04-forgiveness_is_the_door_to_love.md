@@ -3,6 +3,7 @@ layout: post
 title: "Forgiveness is the door to Love"
 date: 2012-09-04 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 The Act of Love. To Love. To forgive. Yes, to forgive. Do not seek Love if you do not know how to Forgive. You will not find Love until you have understood the endless power of Forgiveness. If Love can move mountains, then Forgiveness makes them fly.

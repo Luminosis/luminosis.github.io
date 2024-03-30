@@ -3,6 +3,8 @@ layout: post
 title:  "La Loi de l'Evolution est divine"
 date:   2012-10-01 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 D'où vient l’homme ? L’évolution est un processus de la Nature, c’est une Loi de l’Univers et Charles Darwin n’a fait qu’utiliser son Intelligence et ses capacités de raisonnement en observant la Nature. La Loi de l’Évolution ne s’oppose en rien à Notre Père car c’est lui qui l’a inventé et mise en œuvre dans la Nature. Ceux qui s’opposent à la réalité de la Loi de l’Évolution en vertu de principe religieux n’ont rien compris à la Génèse et/ou se font manipuler par les fous des religions.

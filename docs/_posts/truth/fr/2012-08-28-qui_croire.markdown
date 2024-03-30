@@ -3,6 +3,8 @@ layout: post
 title:  "Qui croire ?"
 date:   2012-08-28 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui croire ? C’est une grande question pour l’humanité. Vous pouvez lire tous mes écrits et en pleurer de rire, vous moquer comme dans une cour de récréation, me dire fou à lier, etc. Très bien, mais montrez-moi ce qui dans ce que j’ai écrit est réfutable par un raisonnement et un contre-modèle global ?

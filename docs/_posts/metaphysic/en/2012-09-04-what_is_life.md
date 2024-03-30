@@ -3,6 +3,7 @@ layout: post
 title: "What is Life?"
 date: 2012-09-04 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Life. What is Life? Can you define Life? Can you describe what makes Life and its Sister Death? Do you understand that Death is an integral part of Life? What then is this strange thing: Life? Why, when and how does a baby's heart start beating? Why does this seed sprout here and not there? Why this butterfly? Why this bee? Yes, why so much life in Nature?

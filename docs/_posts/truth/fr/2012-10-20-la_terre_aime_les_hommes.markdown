@@ -3,6 +3,8 @@ layout: post
 title:  "La Terre aime les hommes"
 date:   2012-10-20 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Terre Aime les hommes, et les hommes doivent Aimer la Terre. Ce Monde ne trouvera l’équilibre que dans l’acceptation du principe universel de l’Amour.

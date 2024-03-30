@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'avez-vous vu dans La Nature ?"
 date:   2012-08-17 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Une main. Une caresse. Un baiser. Un regard. Un silence. Un regard. Une pensée sublime. Une image magnifique qui se projette devant vos yeux. Un arbre. Le vent qui souffle et fait danser les feuilles. Une rivière qui chante de pierre en mousse au fil d’une colline. Avez-vous regardé La Nature ? Qu’y avez-vous vu ? Du pétrole, du gaz, de l’argent, du sang, de la pollution, des déchets, des routes, des immeubles, du béton ? Qu’y avez-vous vu ?

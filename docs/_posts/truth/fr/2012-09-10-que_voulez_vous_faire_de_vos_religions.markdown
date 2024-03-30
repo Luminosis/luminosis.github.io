@@ -3,6 +3,8 @@ layout: post
 title:  "Que voulez-vous faire de vos religions ?"
 date:   2012-09-10 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que voulez-vous faire de vos religions ? Vous savez ces inventions hideuses et horribles qui vous ont servies d’excuses pour faire couler plus de sang qu’il n’y a d’eau dans les océans.

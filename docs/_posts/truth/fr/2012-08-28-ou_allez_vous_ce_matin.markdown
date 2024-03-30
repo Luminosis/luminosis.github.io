@@ -3,6 +3,8 @@ layout: post
 title:  "Où allez-vous ce matin ?"
 date:   2012-08-28 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Où allez-vous sur votre chemin ? Savez-vous en vous levant le matin dire où vous allez ? Savez-vous comprendre ce que cette journée va vous apporter et qui vous permettra d’avancer sur votre chemin ? Avez-vous une compréhension de votre vie autre que celle du temps qui file sous vos yeux, de vieillir, des enfants qui grandissent ou d’une énorme angoisse qui grandi, grandi, jour après jour à l’approche de la Mort ?

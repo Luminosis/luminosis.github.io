@@ -3,6 +3,9 @@ layout: post
 title:  "Que trouvez-vous dans l'Amour ?"
 date:   2012-10-26 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Pourquoi Aimez-vous ? Que trouvez-vous dans l’Amour ? Oui qu’y a-t-il de si particulier dans l’Amour pour que tous les hommes et les femmes n’aient de cesse de le rechercher ?

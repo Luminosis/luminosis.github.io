@@ -3,6 +3,9 @@ layout: post
 title:  "Savoir aimer est un art "
 date:   2012-09-05 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Savoir Aimer est un Art, un grand et noble Art. La Beauté naît de l’Art d’Aimer. Ce qui contient la force de l’Amour ou du Pardon est rempli d’une beauté éternelle. Vous cherchez la beauté alors qu’elle n’est que la conséquence de l’Amour. Pourquoi tant de belles œuvres ont été réalisées par des femmes et des hommes lorsqu’ils étaient pleins d’Amour ? Pourquoi l’inspiration aujourd’hui et pas hier ? Vous souvenez-vous des Muses et de cette source d’eau pure ? Oui, il y a une source de la beauté et c’est celle de l’Amour et du Pardon.

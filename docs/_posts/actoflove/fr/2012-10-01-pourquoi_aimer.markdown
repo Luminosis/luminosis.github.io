@@ -3,6 +3,9 @@ layout: post
 title:  "Pourquoi Aimer ?"
 date:   2012-10-01 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Pourquoi Aimer ? Pourquoi l’homme et la femme ont-ils ce besoin d’Aimer ? Pourquoi sont-ils si heureux lorsqu’ils aiment ou sont aimés et malheureux sinon ? Voilà un concept universel bien étrange : l’Amour ! D'où vient-il ? Les premiers hommes ont-ils inventé l’Amour et celui-ci est transmis depuis ? Ah c’est un principe de la Nature dites-vous ? C’est bien ce que je dis un principe Universel ! Quelle chose étrange.

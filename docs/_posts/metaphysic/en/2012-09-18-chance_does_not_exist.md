@@ -3,6 +3,7 @@ layout: post
 title: "Chance does not exist"
 date: 2012-09-18 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Only fragments of Epicurus' writings remain, at least up to now. In conclusion of Book II, Epicurus said, "Thus we have proven that there are simulacra; that it turns out that their generation occurs at the speed of thought; and also that they possess movements of unsurpassable speed." Read carefully: unsurpassable speed, speed of thought, and simulacra.

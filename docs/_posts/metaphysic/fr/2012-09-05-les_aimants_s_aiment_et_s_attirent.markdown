@@ -3,6 +3,8 @@ layout: post
 title:  "Les aimants s'aiment et s'attirent"
 date:   2012-09-05 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Lorsque deux aimants s’aiment, ils s’attirent. Des aimants, regardez ce mot. Il y a une polarité comme du féminin et du masculin. Un aimant à les deux. Il a deux pôles. C’est étrange non ? Décidément cette Nature est pleine de surprises et fait preuve d’une grande cohérence dans l’application de principes universels.

@@ -3,6 +3,8 @@ layout: post
 title:  "Souvenez-vous 3'000 ans et plus rien"
 date:   2012-08-13 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Il y a dans ce Monde comme une sorte de défiance vis-à-vis de tout ce qui touche à la spiritualité - à ne pas confondre avec ces absurdités que sont les Religions - comme si l’homme et la femme avaient peur. Mais peur de quoi ? Peur de découvrir que, oui, Notre Père est ? Peur d’être aller trop loin dans l’erreur et maintenant, oh mon Dieu puisque nous y sommes autant aller jusqu’au bout ? Oui, mais savez-vous ce qu’il y a vraiment au bout du chemin ? N’avez-vous pas peur que justement au bout du chemin il n’y ait qu’une et une seule chose ? Une seule : une fin.

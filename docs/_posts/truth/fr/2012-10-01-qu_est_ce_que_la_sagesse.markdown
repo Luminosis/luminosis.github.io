@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'est-ce que la Sagesse ?"
 date:   2012-10-01 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qu’est-ce que la Sagesse ? D'où vient-elle ? Comment peut-on l’acquérir ? Est-il possible de la recevoir ? La Sagesse est-elle fille de l’Intelligence ou est-ce l’inverse ?

@@ -3,6 +3,8 @@ layout: post
 title:  "Des maladies"
 date:   2012-08-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 La maladie est un état de notre Corps, mais cet état est le reflet de ce que nous sommes au fond de nous. Certes nous pouvons tomber, nous blesser accidentellement, simplement de nous-même, car nous hommes sommes libres et nous avons le choix dans les chemins que nous empruntons, et les routes sur lesquelles nous circulons. Mais ce qui est en nous, ou ce qui n’y est pas, nous ne pouvons le soigner, ou l’amener, qu’en écoutant très attentivement notre Corps.

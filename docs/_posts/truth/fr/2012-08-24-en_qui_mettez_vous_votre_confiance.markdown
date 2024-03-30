@@ -3,6 +3,8 @@ layout: post
 title:  "En qui mettez-vous votre confiance ?"
 date:   2012-08-24 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 En qui mettez-vous votre confiance ? En Notre Père ? En cet homme dont vous ne savez rien ? En cet âne qui passe par là ? Pourquoi faites-vous confiance à ces tricheurs qui vous mentent du matin au soir et dont les Egos infatués les ont mené à cette horreur qu’est votre politique ?

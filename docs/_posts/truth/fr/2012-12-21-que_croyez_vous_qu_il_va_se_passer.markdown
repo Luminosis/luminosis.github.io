@@ -3,6 +3,8 @@ layout: post
 title:  "Que croyez qu'il va se passer ?"
 date:   2012-12-21 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que croyez-vous qu’il va se passer aujourd’hui ? Rien. La fin du monde n’est pas prévue pour aujourd’hui, ni pour demain, mais par contre ce qui arrivera c’est la protection de la Vie par La Nature. Les conséquences des actions, pensées, sentiments et désirs des hommes seront, car c’est ainsi que cela doit être. La Loi de Causalité Universelle règne.

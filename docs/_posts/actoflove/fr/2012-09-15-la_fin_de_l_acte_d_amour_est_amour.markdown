@@ -3,6 +3,9 @@ layout: post
 title:  "La fin de l'Acte d'Amour est Amour"
 date:   2012-09-15 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Que veut dire la fin de l’Acte d’Amour ? Pourquoi répudier ? Pourquoi divorcer ? Qui sont ces Enfants ? À toutes ces questions la réponse est unique : Amour et Pardon.

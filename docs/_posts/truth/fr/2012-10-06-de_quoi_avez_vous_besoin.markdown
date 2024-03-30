@@ -3,6 +3,8 @@ layout: post
 title:  "De quoi avez-vous besoin ?"
 date:   2012-10-06 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 De quoi avez-vous besoin pour vivre dans la Paix, la Joie et l’Amour ? Que devez-vous fabriquer dans vos usines ? Que doit inventer l’humanité ? Quel modèle économique et politique ?

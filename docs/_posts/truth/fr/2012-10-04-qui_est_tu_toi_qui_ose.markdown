@@ -3,6 +3,8 @@ layout: post
 title:  "Qui es-tu toi qui ose ?"
 date:   2012-10-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui es-tu toi qui oses tuer au nom de Notre Père ?

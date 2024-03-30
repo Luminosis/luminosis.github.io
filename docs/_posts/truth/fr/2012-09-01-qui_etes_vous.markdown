@@ -3,6 +3,8 @@ layout: post
 title:  "Qui êtes-vous ?"
 date:   2012-09-01 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui êtes-vous ? Prenez un miroir et regardez-vous. Qui êtes-vous ? Vous connaissez-vous ? Pensez-vous vraiment être ce prénom accolé à ce nom ? Pensez-vous vraiment être une de ces images sociétales que vous donnez selon l’endroit, les personnes ou le contexte ? Charmeur en boîte de nuit, dur et sec au travail et violent à la maison…

@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'est-ce que le vide ?"
 date:   2012-09-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 L’infini et l’éternité sont ils respectivement une absence d’espace et de temps ou bien un espace et un temps sans fin ?

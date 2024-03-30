@@ -3,6 +3,8 @@ layout: post
 title:  "Qui suis-je ?"
 date:   2012-08-29 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui suis-je ? Vous lisez ces écrits et vous vous demandez mais qui est donc ce Philippe ? Il sort d'où ce gars ? Encore un mystique défoncé, ou un apôtre d’une quelconque secte ou bien un évangéliste qui fume la Bible ?

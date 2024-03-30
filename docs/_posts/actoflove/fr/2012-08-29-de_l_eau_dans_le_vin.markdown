@@ -3,6 +3,9 @@ layout: post
 title:  "Alors cet Acte d'Amour ?"
 date:   2012-08-29 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Connaissez-vous Pierre Desproges ? Alors la vous vous dites que ce Philippe c’est le dernier des allumés ! Il nous bassine avec du Notre Père, du Onfray, de l’Épicurisme, de la Bible et maintenant Desproges !

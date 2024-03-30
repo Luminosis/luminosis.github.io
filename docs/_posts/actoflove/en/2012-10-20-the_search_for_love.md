@@ -3,6 +3,7 @@ layout: post
 title: "The Search for Love"
 date: 2012-10-20 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 The Body loves to feel Love. It needs it to be as it was designed. The deprivation of Love is the source of many diseases, and the most important deprivation is that which comes from denying the Love of Our Father that is in each of us.

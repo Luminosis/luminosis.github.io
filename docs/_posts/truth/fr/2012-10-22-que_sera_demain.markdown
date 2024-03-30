@@ -3,6 +3,8 @@ layout: post
 title:  "Que sera demain ?"
 date:   2012-10-22 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que sera demain ? Demain sera fait des conséquences de ce que vous avez fait hier et vous laissera l’opportunité de comprendre vos erreurs et bêtises pour revenir au point de départ en les corrigeant. Jour après jour le cumul des erreurs et bêtises se fait moins celles que l’on corrige. La Loi de Causalité est simple mais inflexible.

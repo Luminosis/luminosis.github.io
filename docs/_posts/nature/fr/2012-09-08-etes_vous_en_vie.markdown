@@ -3,6 +3,8 @@ layout: post
 title:  "Etes-vous en vie ?"
 date:   2012-09-08 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Êtes-vous en Vie ? Comment savez-vous que vous êtes en vie ? Quels indicateurs avez-vous ? Tout ceci pourrait aussi bien n’être qu’un grand rêve, une énorme “matrice” pour vous maintenir loin de Notre Père.

@@ -3,6 +3,8 @@ layout: post
 title:  "L'Ego et la Peur"
 date:   2012-10-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Quelle ombre voile votre Cœur aujourd’hui ? Quelle peur avez-vous formé dans la solitude de votre cerveau ? Quelle porte avez-vous fermé à double tour pour que votre Cœur et Âme ne puissent en franchir le seuil ?

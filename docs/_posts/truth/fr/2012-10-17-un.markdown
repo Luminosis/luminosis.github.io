@@ -3,6 +3,8 @@ layout: post
 title:  "Un"
 date:   2012-10-17 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Il n’y a qu’Une seule nation, Un seul peuple celui de Notre Père. Il faut la folie de l’Ego pour dessiner des lignes fixes sur une Terre en perpétuel mouvement. Il faut la folie des religions pour crier à la conquête où à la libération de ce qui n’appartient jamais à personne d’autre qu’à Notre Père.

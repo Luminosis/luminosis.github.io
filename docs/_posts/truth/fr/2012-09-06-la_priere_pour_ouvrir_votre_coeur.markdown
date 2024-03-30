@@ -3,6 +3,8 @@ layout: post
 title:  "La prière pour ouvrir votre Coeur"
 date:   2012-09-06 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Prière, une chose désuète n’est-ce pas ? Un outil bon pour quelques mystiques et les fous des religions. Eh bien non, la Prière est ce dont vous avez besoin comme nourriture spirituelle. La Prière est l’acte que tout homme et femme doivent réaliser pour ouvrir son Cœur et se mettre en chemin. Oh il n’est pas utile d’aller dans un lieu de religion, au contraire choisissez un arbre, un jardin, un lieu calme qui vous convienne.

@@ -3,6 +3,8 @@ layout: post
 title:  "La Philosophie de l'Amour"
 date:   2012-08-13 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que vous voici bien empêtré dans des guerres, des paroles et des actes les plus terribles qui puissent être.

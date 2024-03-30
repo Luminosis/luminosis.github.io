@@ -3,6 +3,8 @@ layout: post
 title:  "La Volonté de l'Ego ?"
 date:   2012-10-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Aimez-vous les uns les autres. Tu ne tueras point. Est-ce donc si difficile pour l’humanité de se souvenir de précepte aussi simple ? Est-ce donc si ardu de vouloir la Paix, l’Amour et la Joie et non la haine, la guerre et le sang ? Est-ce donc si difficile que de mettre votre Intelligence et vos facultés de raisonnement au service de Notre Père et de l’humanité, son Fils, et non à celui des marchands d’armes, des fous des religions et de l’Ombre ?

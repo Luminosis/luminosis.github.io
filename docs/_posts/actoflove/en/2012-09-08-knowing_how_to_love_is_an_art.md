@@ -3,6 +3,7 @@ layout: post
 title: "Knowing how to love is an art"
 date: 2012-09-05 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Knowing how to Love is an Art, a great and noble Art. Beauty is born from the Art of Loving. What contains the strength of Love or Forgiveness is filled with eternal beauty. You seek beauty when it is only the consequence of Love. Why have so many beautiful works been created by women and men when they were full of Love? Why inspiration today and not yesterday? Do you remember the Muses and that source of pure water? Yes, there is a source of beauty and it is that of Love and Forgiveness.

@@ -3,6 +3,7 @@ layout: post
 title: "What have you seen in Nature?"
 date: 2012-08-17 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 A hand. A caress. A kiss. A gaze. A silence. A look. A sublime thought. A magnificent image projected before your eyes. A tree. The wind blowing and making the leaves dance. A river singing from stone to moss along a hill. Have you looked at Nature? What have you seen? Oil, gas, money, blood, pollution, waste, roads, buildings, concrete? What have you seen?

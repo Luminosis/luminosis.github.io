@@ -3,6 +3,8 @@ layout: post
 title:  "Le vide et les atomes"
 date:   2012-08-23 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Le vide et les atomes. Les atomes et le vide. Savez-vous mesurer combien de vide et combien d’atomes il y a dans votre Corps ? Et pourquoi donc cet atome, oui, celui-là et pas un autre, est-il là à côté de celui-ci et pas un autre ?

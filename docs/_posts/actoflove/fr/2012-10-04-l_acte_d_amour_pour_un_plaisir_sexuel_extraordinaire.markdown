@@ -3,6 +3,9 @@ layout: post
 title:  "L'Acte d'Amour pour un plaisir sexuel extraordinaire"
 date:   2012-10-04 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Qui sont ces hommes et ces femmes qui hurlent bestialement et mugissent ? Qu’ont-ils compris de l’Amour ? Guère plus que le premier rat d’égouts. Le sexe pour le sexe n’est pas l’Amour et le plaisir n’est pas la bestialité.

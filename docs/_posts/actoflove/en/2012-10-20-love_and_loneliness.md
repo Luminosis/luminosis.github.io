@@ -3,6 +3,7 @@ layout: post
 title: "Love and Solitude"
 date: 2012-10-20 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 To Know Love is to know that we are Love as Our Father is Love. Man was created in His image and man is Love. Man carries the eternal Love of Our Father within him.

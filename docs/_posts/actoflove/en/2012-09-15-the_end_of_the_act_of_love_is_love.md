@@ -3,6 +3,7 @@ layout: post
 title: "The end of the Act of Love is Love"
 date: 2012-09-15 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 What does the end of the Act of Love mean? Why repudiate? Why divorce? Who are these Children? To all these questions the answer is unique: Love and Forgiveness.

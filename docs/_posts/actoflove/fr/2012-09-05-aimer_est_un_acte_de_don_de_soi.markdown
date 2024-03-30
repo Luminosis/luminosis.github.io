@@ -3,6 +3,9 @@ layout: post
 title:  "Aimer est un acte de don de soi"
 date:   2012-09-05 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 L’Amour et la Dévotion. L’Amour et l’Altruisme. L’Amour n’est pas pour soi, pas directement. L’Amour est pour autrui. L’Amour est pour l’humanité et ce Monde. L’Amour que nous donnons, que nous générons par notre Pardon, nous revient indirectement par ricochets et rebonds. L’Amour génère l’Amour, et c’est ce deuxième Amour que nous recevons à notre tour.

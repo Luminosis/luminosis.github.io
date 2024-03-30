@@ -3,6 +3,8 @@ layout: post
 title:  "Le retour de la Lumière"
 date:   2012-12-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Ce jour est celui ou vous célébrez la naissance de mon frère Jésus de Nazareth, mais pourquoi célébrer ce jour ? Pourquoi célébrer la venue d’un messager et non pas celui qui l’envoi ? Que vous souvenez-vous du message ? Avez-vous relu les évangiles, et pas seulement ceux que les pères de l’église ont modifiés et salis à leur convenance ? Vous souvenez-vous du message ?

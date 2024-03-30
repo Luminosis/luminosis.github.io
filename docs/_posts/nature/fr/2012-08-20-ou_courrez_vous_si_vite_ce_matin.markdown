@@ -3,6 +3,8 @@ layout: post
 title:  "Ou courrez-vous si vite ce matin ?"
 date:   2012-08-20 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Où courrez-vous donc si vite ce matin ?<br>

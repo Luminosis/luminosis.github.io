@@ -3,6 +3,8 @@ layout: post
 title:  "Laissez cet enfant en paix !"
 date:   2012-09-10 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Laissez cet Enfant ! Que vous a-t-il fait ? Pourquoi voulez-vous l’endoctriner sous couvert d’éducation et de religion ? Laissez-le aller. Laissez-le aller à la rencontre de la Nature ! Laissez-le jouer dans la rivière. Laissez-le parler aux oiseaux. Laissez-le admirer le papillon. Laissez-le courrier pieds nus. Laissez-le rire. Laissez-le caresser son chien. Laissez-le… laissez-le en Paix, laissez-le devenir intelligent, raisonnable et un Fils ou une Fille de Notre Père !

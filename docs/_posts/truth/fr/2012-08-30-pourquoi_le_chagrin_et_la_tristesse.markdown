@@ -3,6 +3,8 @@ layout: post
 title:  "Pourquoi le Chagrin et la Tristesse ?"
 date:   2012-08-30 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Pourquoi le chagrin et la tristesse et pas uniquement la Joie et le Bonheur ? Oui, pourquoi ? Notre Père a donné à l’humanité toutes les merveilles et une richesse sans fin avec ce Monde, et si vous cherchez vous n’y trouverez ni chagrin, ni tristesse. Mais alors d'où cela vient-il ?

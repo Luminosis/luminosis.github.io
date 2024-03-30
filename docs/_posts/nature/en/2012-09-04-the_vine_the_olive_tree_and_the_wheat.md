@@ -3,6 +3,7 @@ layout: post
 title: "The Vine, the Olive Tree, and the Wheat"
 date: 2012-09-04 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 A vine, an olive tree, and wheat. Do you understand what each represents? A vine and the hand of man to make wine. An olive tree and the hand of man to make oil. Wheat and the hand of man to make flour, then oil and water and the hand of man to knead the dough and fire to transform the dough into bread.

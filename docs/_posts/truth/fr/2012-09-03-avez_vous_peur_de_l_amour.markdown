@@ -3,6 +3,8 @@ layout: post
 title:  "Avez-vous peur de l'Amour ?"
 date:   2012-09-03 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Peur. Réfléchissez à la Peur. La peur de mourir. La peur de la maladie. La peur de l’accident. La peur de demain. Pourquoi ces peurs ? Que craignez-vous ? Auriez-vous quelque chose à vous reprocher ?

@@ -3,6 +3,7 @@ layout: post
 title: "A healthy mind in a healthy body"
 date: 2012-09-07 10:57:19 +0200
 tags: en
+lang: en
 categories: body volume_I
 ---
 *'A healthy mind in a healthy body'* is an adage full of wisdom that shows how much our distant ancestors had acquired knowledge that is still lacking in this so-called modernity. Modernity is an illusion, a baseless stupidity, a monstrous flaw in intelligence and reasoning. There is nothing modern about having wasted thousands of years just shedding blood and sowing the Earth with all the most horrible plagues. Those who do not understand the value of past teachings have invented Modernity to try to camouflage their stupidity and ignorance.

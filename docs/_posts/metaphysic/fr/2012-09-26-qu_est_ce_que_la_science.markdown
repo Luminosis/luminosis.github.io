@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'est que la science ?"
 date:   2012-09-26 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Qu’est-ce que la Science ? La science devrait être cette compréhension du Monde qui fait que les religions n’auront plus aucune chance de réapparaître. Une compréhension du Monde qui englobe le visible et l’invisible, la matière lourde et la matière subtile.

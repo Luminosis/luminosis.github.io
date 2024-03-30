@@ -3,6 +3,8 @@ layout: post
 title:  "La Nature fille de la Vie"
 date:   2012-10-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 La Nature est fille de la Vie. Elle est une expression puissante et immanente de la Vie. La Terre et les planètes font partie de la Nature. Le Soleil est le gardien et le protecteur de la Nature. Il la nourrit et assure par ses cycles son renouvellement et sa croissance. Tout est ordonné.

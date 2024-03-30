@@ -3,6 +3,9 @@ layout: post
 title:  "Prendre le temps pour l'Amour"
 date:   2012-10-26 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 L’Amour que vous ressentez en prenant sa main. L’Amour que vous ressentez en l’aimant de tout votre Corps. L’Amour que vous ressentez… Les occasions de ressentir l’Amour sont sans fin, et la Vie vous en présente tous les jours mais savez-vous seulement les saisir ?

@@ -3,6 +3,8 @@ layout: post
 title:  "Quelle volonté avez-vous ?"
 date:   2012-09-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Volonté. Que comprenez-vous de la Volonté et de la Ténacité sa sœur ? Que croyez-vous que vous obtiendrez sans aucun effort, ni apprentissage pour muscler votre Volonté ? Pensez-vous qu’il vous suffit de quelques prières pour que Notre Père fasse votre Volonté - et non la sienne ?

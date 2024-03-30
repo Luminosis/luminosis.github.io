@@ -3,6 +3,7 @@ layout: post
 title: "There is no true or false Love"
 date: 2012-10-17 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Can you explain Love? If you can, then you know how to explain everything that Our Father is! Do not try to explain what no man can explain. Love, the force that gave birth to Light and to this World, cannot be explained by words. Love can be learned, felt, but cannot be explained. Love is not learned in books, there is only one way to learn it and that is to live Life. If you open your senses, all your physical and subtle senses, then you will have the opportunity to feel Love in many of its forms.

@@ -3,6 +3,9 @@ layout: post
 title:  "Voulez-vous Aimer ?"
 date:   2012-09-03 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Aimer. Aimer. Voulez-vous Aimer ? Voulez-vous sentir la Joie d’être aimé, de savoir que quelqu’un pense à vous ? Voulez-vous sentir la caresse d’un ange qui vous porte une belle pensée d’Amour de votre compagne ou compagnon ? Voulez-vous sentir cette force qui vous fait sentir que rien ne peut vous arriver car quelqu’un vous Aime ? Voulez-vous sentir cette Paix sans nom qui s’empare de votre Corps et Âme au moment ou ces bras vous enlacent ? Voulez-vous sentir les montagnes qui tremblent au son de vos silences complices d’Amour ?

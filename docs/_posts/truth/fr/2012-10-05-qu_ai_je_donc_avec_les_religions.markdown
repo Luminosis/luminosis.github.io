@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'ai-je donc contre les religions ?"
 date:   2012-10-05 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qu’ai-je donc contre les religions ? Vous me direz que je cite Notre Père à tout bout de champ alors c’est bien là signe que je suis religieux, mystique, forcément ! Et puis vous me direz que toutes les religions se disent pour la fraternité et l’Amour, alors pourquoi suis-je si dur avec elles ?

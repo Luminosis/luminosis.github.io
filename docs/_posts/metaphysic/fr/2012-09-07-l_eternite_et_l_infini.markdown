@@ -3,6 +3,8 @@ layout: post
 title:  "L'éternité et l'infini"
 date:   2012-09-07 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 L’éternité et l’infini. Que comprenenez-vous aujourd’hui de ces deux éléments fondamentaux de l’Univers ? Qu’est-ce que l’éternité ? Savez-vous la mesurer avec un instrument ? Qu’est-ce que l’infini ? Savez-vous capturer une particule de l’infini avec un instrument ? Il est impossible de comprendre ce Monde, l’Univers et le reste sans avoir correctement appréhendé l’éternité et l’infini.

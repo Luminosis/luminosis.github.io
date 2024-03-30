@@ -3,6 +3,8 @@ layout: post
 title:  "Que vos Coeurs s'embrasent de la beauté de la nature"
 date:   2012-08-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Comme un levé de Soleil le monde doit s’embraser de sa propre Beauté. Le ciel de vos pensées doit devenir cet infini de couleurs, laissez la chaleur et la douceur vous imprégner doucement, puis fermez vos yeux et ressentez cette énergie.

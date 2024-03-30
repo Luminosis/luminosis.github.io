@@ -3,6 +3,8 @@ layout: post
 title:  "Cette petite voix de la liberté"
 date:   2012-10-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 L’homme a-t-il vraiment besoin de Notre Père ? Après tout il est libre et peut donc faire ce qui lui plaît ! L’homme est libre c’est une Vérité. Il peut agir à sa guise mais sa liberté à une limite qui est la Volonté de Notre Père. Cette Volonté s’exprime notamment par les Lois de l’Univers et l’homme ne peut s’en affranchir.

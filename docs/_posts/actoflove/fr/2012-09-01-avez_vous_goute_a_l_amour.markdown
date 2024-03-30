@@ -3,6 +3,9 @@ layout: post
 title:  "Avez-vous gouté à l'Amour ?"
 date:   2012-09-01 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Avez-vous goûté à l’Amour ? Avez-vous essayé de toucher toute la puissance de l’Amour ? L’Amour qui nourrit. L’Amour qui déplace des montagnes. L’Amour qui transforme la souffrance en Amour. L’Amour qui purifie l’eau impure. L’Amour qui vous fait toucher le fondement de tout l’Univers.

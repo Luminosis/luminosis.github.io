@@ -3,6 +3,8 @@ layout: post
 title:  "Savez-vous pourquoi votre Coeur bat ?"
 date:   2012-08-27 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 Savez-vous pourquoi votre Cœur se contracte et se dilate pour faire circuler le sang ? C’est un muscle avec des nerfs me direz-vous. Bien mais cela explique le comment, la mécanique, mais pas le pourquoi. Pourquoi aussi s’arrête-t-il parfois comme cela ? Vous savez “son cœur s’est arrêté de battre”.

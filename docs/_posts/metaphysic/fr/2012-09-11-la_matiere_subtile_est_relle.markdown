@@ -3,6 +3,8 @@ layout: post
 title:  "La matière subtile est réelle"
 date:   2012-09-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 L’Amour est une force, un sentiment, une émotion, un état, une énergie, une nourriture, une vibration, etc. L’Amour se décline sous tous les états du monde de la matière subtile. De quels instruments disposez-vous pour mesurer l’Amour ? Savez-vous mesurer les radiations de l’Amour ? Savez-vous ressentir l’Amour ?

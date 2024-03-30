@@ -3,6 +3,7 @@ layout: post
 title: "The Law of Evolution is divine"
 date: 2012-10-01 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Where does man come from? Evolution is a process of Nature, it is a Law of the Universe and Charles Darwin only used his Intelligence and reasoning abilities by observing Nature. The Law of Evolution does not oppose Our Father in any way because it is He who invented it and implemented it in Nature. Those who oppose the reality of the Law of Evolution based on religious principles have not understood Genesis and/or are being manipulated by religious fanatics.

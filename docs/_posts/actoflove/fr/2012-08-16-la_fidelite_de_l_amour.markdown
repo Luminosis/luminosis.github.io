@@ -3,6 +3,9 @@ layout: post
 title:  "La fidélité de l'Amour"
 date:   2012-08-16 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 La fidélité absolue est la seule chose que vous devez à Notre Père. La fidélité que chacun doit à sa compagne ou son compagnon est celle de l’Amour. Il n’y a pas d’autre relation entre les êtres vivants que celle de l’Amour.

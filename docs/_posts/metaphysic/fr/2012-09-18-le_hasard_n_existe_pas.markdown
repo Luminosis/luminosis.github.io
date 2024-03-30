@@ -3,6 +3,8 @@ layout: post
 title:  "Le hasard n'existe pas"
 date:   2012-09-18 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Il ne reste des écrits d’Epicure que des fragments, du moins à ce jour. En conclusion du Livre II, Epicure dit “Ainsi nous avons prouvé qu’il existe des simulacres ; qu’il s’avère que leur génération s’accomplit à la vitesse de la pensée ; et aussi qu’ils possèdent des mouvements d’une vitesse insurpassable”. Relisez bien : vitesse insurpassable, vitesse de la pensée et simulacres.

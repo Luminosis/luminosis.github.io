@@ -3,6 +3,7 @@ layout: post
 title: "The Grain of Sand and the Infinite"
 date: 2012-09-15 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 A grain of sand in the middle of an endless beach, such is man. Can he understand the Ocean that he hears but never sees or feels? Can man understand the entirety of the Universe? A grain of sand: the symbol of infinity and eternity.

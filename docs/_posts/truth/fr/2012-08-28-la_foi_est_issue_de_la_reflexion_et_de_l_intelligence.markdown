@@ -3,6 +3,8 @@ layout: post
 title:  "La Foi est issue de la réflexion et de l'intelligence"
 date:   2012-08-28 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Aimez-vous les uns et les autres. Laissez-vous guider par l’Amour. Ouvrez-vos Cœurs. Laissez l’énergie d’Amour vous envelopper. L’Acte d’Amour est un grand moment de votre vie. Plus vous le pratiquerez et plus vous comprendrez le sens de votre vie, plus vous ressentirez, plus votre santé sera et vos maux disparaîtront, plus votre vie deviendra harmonieuse.

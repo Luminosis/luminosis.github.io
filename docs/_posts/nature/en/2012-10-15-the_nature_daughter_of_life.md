@@ -3,6 +3,7 @@ layout: post
 title: "Nature, Daughter of Life"
 date: 2012-10-15 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Nature is the daughter of Life. She is a powerful and immanent expression of Life. The Earth and the planets are part of Nature. The Sun is the guardian and protector of Nature. It nourishes her and ensures, through its cycles, her renewal and growth. Everything is ordered.

@@ -3,6 +3,8 @@ layout: post
 title:  "Faire la paix avec Notre Père"
 date:   2012-10-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Pour faire la Paix il faut être deux à la vouloir. Un pour tendre la main et l’autre pour l’accepter et la prendre. La main de Notre Père est tendue - elle le sera toujours - vers les hommes et c’est à eux de l’accepter et de la prendre. Ce Monde ne connaîtra la Paix qu’une fois que les hommes auront compris cette évidence.

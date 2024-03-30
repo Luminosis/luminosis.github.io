@@ -3,6 +3,8 @@ layout: post
 title:  "Qui comprendra ? Qui ouvrira ses yeux ?"
 date:   2012-08-22 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui comprendra ? Qui ouvrira ses yeux ? Qui aura le Cœur qui tressaille ? Qui aimera son prochain ? Qui ouvrira son Cœur à l’Amour ? Qui ? Qui ? Vous ? Lui ? Elle ? Qui ?

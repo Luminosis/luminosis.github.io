@@ -3,6 +3,7 @@ layout: post
 title: "Knowing how to give. Knowing how to Love."
 date: 2012-08-25 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Knowing how to give. Knowing how to Love. Knowing how to give without taking back. Just giving without expecting anything in return except for what Our Father will give you.

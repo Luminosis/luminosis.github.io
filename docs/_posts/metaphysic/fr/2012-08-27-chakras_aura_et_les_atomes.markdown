@@ -3,6 +3,8 @@ layout: post
 title:  "Chakras, aura et les atomes"
 date:   2012-08-27 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Peut-être avez-vous lu ou entendu parler de l’Aura et des Chakras ? Certains praticiens, les yogis, etc., en parlent. Pour certaines civilisations et culture c’est une donnée de base de la compréhension de l’homme. Mais savez-vous relier l’Aura et les Chakras à la physique des particules ? Savez-vous expliquer avec des atomes et des simulacres le fonctionnement et la nature de l’Aura et des Chakras ? Non ! Les Grecs antiques eux le savaient ou du moins certains philosophes grecs le savaient.<br>

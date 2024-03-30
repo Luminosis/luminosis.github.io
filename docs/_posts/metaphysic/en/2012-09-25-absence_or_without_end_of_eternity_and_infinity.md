@@ -3,6 +3,7 @@ layout: post
 title: "What is emptiness?"
 date: 2012-09-25 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Is infinity and eternity respectively an absence of space and time or rather a space and time without end?

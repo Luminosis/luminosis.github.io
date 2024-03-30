@@ -3,6 +3,7 @@ layout: post
 title: "So this Act of Love?"
 date: 2012-08-29 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 So this Act of Love? Have you tried it? Have you been able to spend sumptuous hours filling yourself with a Love of unreal power without ever taking off your partner's panties or briefs? Have you felt Love and understood that sexuality - which is an undeniable pleasure and necessary for life - is just one facet of Love?

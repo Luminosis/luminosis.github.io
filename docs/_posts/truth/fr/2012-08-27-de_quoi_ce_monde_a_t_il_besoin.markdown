@@ -3,6 +3,8 @@ layout: post
 title:  "De quoi ce monde a-t-il besoin ?"
 date:   2012-08-27 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 De quoi le Monde a-t-il besoin ?<br> 

@@ -3,6 +3,8 @@ layout: post
 title:  "Le Grain de sable et l'infini"
 date:   2012-09-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Un grain de sable au milieu d’une plage sans fin tel est l’homme. Peut-il comprendre l’Océan qu’il entend mais ne voit pas ni ne ressens jamais ? L’homme peut-il comprendre le tout de l’Univers ? Un grain de sable : le symbole de l’infini et de l’éternité.

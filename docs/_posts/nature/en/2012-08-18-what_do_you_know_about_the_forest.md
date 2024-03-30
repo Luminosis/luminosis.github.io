@@ -3,6 +3,7 @@ layout: post
 title: "What do you know about the Forest?"
 date: 2012-08-18 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 A Forest. What do you know about the Forest? What do you understand about the civilizations of the forest? You haven't even discovered this civilization yet you destroy it savagely. Look at a tree. It breathes, doesn't it? It is rooted in the Earth from which it draws its strength. The wind caresses it. The Sun nourishes it. Could it not be a Child of Our Father?

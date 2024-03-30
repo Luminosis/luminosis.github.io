@@ -3,6 +3,7 @@ layout: post
 title: "The Act of Love for Extraordinary Sexual Pleasure"
 date: 2012-10-04 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Who are these men and women who howl like beasts and roar? What do they understand about Love? Not much more than the first sewer rat. Sex for the sake of sex is not Love, and pleasure is not bestiality.

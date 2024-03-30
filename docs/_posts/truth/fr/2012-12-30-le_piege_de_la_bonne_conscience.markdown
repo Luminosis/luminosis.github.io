@@ -3,6 +3,8 @@ layout: post
 title:  "Le piége de la 'bonne conscience'"
 date:   2012-12-28 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La bonne conscience est un danger redoutable, le piège de l’ego qui aime se dire bonté et gentillesse. Oh il ne suffit pas de dire “oui” à tout et à rien, de se complaire dans une bonté affichée pour avoir compris ce qu’est l’Amour. Tout au contraire nombreux sont les egos les plus redoutables qui se cachent derrière de “bonnes consciences” de fortune.

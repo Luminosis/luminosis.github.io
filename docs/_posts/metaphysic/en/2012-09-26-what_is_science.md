@@ -3,6 +3,7 @@ layout: post
 title: "What is science?"
 date: 2012-09-26 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 What is Science? Science should be this understanding of the World that makes religions have no chance of reappearing. An understanding of the World that encompasses the visible and the invisible, the heavy matter and the subtle matter.

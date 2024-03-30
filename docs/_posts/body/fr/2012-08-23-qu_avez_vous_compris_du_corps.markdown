@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'avez-vous compris du corps ?"
 date:   2012-08-23 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 Le Corps. Qu’avez-vous compris de votre Corps et de celui des animaux ? Que savez-vous vraiment ? Vous avez un début de la mécanique des os et de la structure mais l’essentiel vous échappe.

@@ -3,6 +3,8 @@ layout: post
 title:  "La Paix en soi pour l'offrir au monde"
 date:   2012-10-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Paix est ce que chaque femme et homme doivent découvrir en eux. Là ou réside La Paix se trouve Notre Père, car la Paix est l’état du Royaume. La Paix ne s’obtient pas en combattant ou domestiquant des éléments extérieurs, non, La Paix s’obtient avec soi-même. Elle est le fruit d’un travail personnel.

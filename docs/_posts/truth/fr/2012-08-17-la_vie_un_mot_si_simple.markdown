@@ -3,6 +3,8 @@ layout: post
 title:  "La Vie. Un mot si simple."
 date:   2012-08-17 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Vie, c’est un mot simple. La Vie. La Vie. Un mot si simple. Regardez-le. Que pouvez-vous me dire de La Vie ? Avez-vous compris que La Vie comporte la Mort et sa sœur la Naissance ? Que si l’une est bonne alors l’autre est Juste. Le saviez-vous ?

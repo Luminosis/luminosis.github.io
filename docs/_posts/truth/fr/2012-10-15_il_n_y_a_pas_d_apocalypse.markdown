@@ -3,6 +3,8 @@ layout: post
 title:  "Il n'y a pas d'Apocalypse"
 date:   2012-10-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Il n’y a pas d’Apocalypse, il n’y a que des corrections selon les erreurs et bêtises des hommes. Il n’y a pas plus d’Apocalypse qu’il n’y a d’Enfer. Notre Père est Amour et tout ce qui procède de lui est Amour.

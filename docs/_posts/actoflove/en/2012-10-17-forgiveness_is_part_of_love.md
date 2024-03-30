@@ -3,6 +3,7 @@ layout: post
 title: "Forgiveness is part of Love"
 date: 2012-10-17 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Forgiveness, never forget that Forgiveness is part of Love. Forgiveness is the alchemist that transforms into Love. Do not think you can experience and understand Love without deeply immersing yourself in the experience of Forgiveness. Many try to understand Love by carefully avoiding Forgiveness. If you have no idea what Forgiveness is, then you have no idea what Love is. Seek to feel, to experience Forgiveness and you will glimpse Love.

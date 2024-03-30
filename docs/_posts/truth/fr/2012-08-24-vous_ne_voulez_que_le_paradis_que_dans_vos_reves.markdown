@@ -3,6 +3,8 @@ layout: post
 title:  "Vous ne voulez le paradis que dans vos rêves"
 date:   2012-08-24 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Avez-vous besoin de croire en de belles histoires ? Avez-vous envie de vivre une expérience comme dans un de ces contes de fées ? Croyez-vous aux belles histoires d’Amour ? Aimez-vous regarder ces films qui se finissent bien ? Avez-vous besoin d’espérer en demain en vous levant le matin ? Oui ? Oui dites-vous péniblement ? Mais bon sang, dites le haut et fort !

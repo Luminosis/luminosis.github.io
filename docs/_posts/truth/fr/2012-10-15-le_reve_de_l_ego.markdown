@@ -3,6 +3,8 @@ layout: post
 title:  "Le rêve de l'Ego"
 date:   2012-10-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Quels sont vos rêves ? À quoi aspirez-vous pour demain pour vous, et pour après-demain pour vos Enfants ? Espérez-vous une vie heureuse et douce pour eux ? Aimeriez-vous enfin connaître la Paix, la Joie et l’Amour ?

@@ -3,6 +3,8 @@ layout: post
 title:  "Un esprit sain dans un corps sain"
 date:   2012-09-07 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 *'Un esprit sain dans un corps sain'* est un adage plein de sagesse et qui dit combien nos lointains ancêtres avaient acquis des connaissances qui aujourd’hui font encore défaut à cette soit disant modernité. La modernité est une illusion, une bêtise sans fondement, une faille monstrueuse dans l’intelligence et le raisonnement. Il n’y a rien de moderne à avoir perdu des milliers d’années à juste faire couler le Sang et ensemencer la Terre de tous les fléaux les plus horribles. Ceux qui ne savent pas comprendre la valeur des enseignements du passé ont inventé la Modernité pour tenter de camoufler leur bêtise et ignorance.

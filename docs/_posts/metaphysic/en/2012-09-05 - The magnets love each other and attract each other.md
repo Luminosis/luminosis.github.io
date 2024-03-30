@@ -3,6 +3,7 @@ layout: post
 title: "Magnets love each other and attract each other"
 date: 2012-09-05 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 When two magnets love each other, they attract each other. Magnets, look at this word. There is a polarity like feminine and masculine. A magnet has both. It has two poles. Isn't it strange? Definitely, Nature is full of surprises and shows great consistency in the application of universal principles.

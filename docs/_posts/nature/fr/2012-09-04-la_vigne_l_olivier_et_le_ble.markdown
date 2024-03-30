@@ -3,6 +3,8 @@ layout: post
 title:  "La Vigne, l'Olivier et le Blé"
 date:   2012-09-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Une vigne, un olivier et un blé. Comprenez-vous ce que chacun représente ? Une vigne et la main de l’homme pour en faire le vin. Un olivier et la main de l’homme pour en faire l’huile. Un blé et la main de l’homme pour en faire la farine, puis l’huile et l’eau et la main de l’homme pour pétrir la pâte et le feu pour transformer la pâte en pain.

@@ -3,6 +3,7 @@ layout: post
 title: "But where do you get this Love from?"
 date: 2012-08-27 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 When a child asks their parents if having a little brother or sister soon will change the amount of Love they receive from them, they find themselves at a loss to provide a coherent explanation. *"But no, my dear, we do not share Love, there will be enough for you and your little sister or brother,"* you will respond. *"Yes, but where will you get this Love from?"* the child will ask with reason. The fear of lacking Love is an endless source of jealousy.

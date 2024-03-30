@@ -3,6 +3,7 @@ layout: post
 title: "The Act of Love is not marriage"
 date: 2012-08-21 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 The Act of Love is a collection of moments, gestures, caresses, silences, words, looks, Nature giving itself, kisses, and the play of Bodies coming together to get closer to Our Father.

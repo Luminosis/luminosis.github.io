@@ -3,6 +3,8 @@ layout: post
 title:  "Le Noir est-il une couleur ?"
 date:   2012-08-27 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Le noir est-il une couleur ? S’il l’était alors il ferait parti de l’Arc-en-Ciel de la Vie. Le Soleil enverrait des fréquences noires avec sa Lumière, mais voilà il ne le fait pas. Pourquoi ?

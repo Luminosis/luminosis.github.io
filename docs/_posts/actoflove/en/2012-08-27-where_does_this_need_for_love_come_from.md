@@ -3,6 +3,7 @@ layout: post
 title: "Where does this need for Love come from?"
 date: 2012-08-27 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 Why do men and women spend their lives searching for Love? Love is everywhere: love of wine, love of a job well done, love of beautiful things, love of animals, love of flowers, etc. Love.

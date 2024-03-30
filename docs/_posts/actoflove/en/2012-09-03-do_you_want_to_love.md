@@ -2,7 +2,8 @@
 layout: post
 title: "Do You Want to Love?"
 date: 2012-09-03 10:57:19 +0200
-tags: fr
+tags: en
+lang: en
 categories: actoflove volume_I
 ---
 To Love. To love. Do you want to Love? Do you want to feel the joy of being loved, to know that someone is thinking of you? Do you want to feel the caress of an angel bringing you a beautiful thought of Love from your partner? Do you want to feel that strength that makes you feel like nothing can happen to you because someone Loves you? Do you want to feel that indescribable peace that takes over your body and soul when those arms embrace you? Do you want to feel the mountains tremble at the sound of your silent moments of Love?

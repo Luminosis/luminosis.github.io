@@ -3,6 +3,9 @@ layout: post
 title:  "L'Acte d'Amour n'est pas le mariage"
 date:   2012-08-21 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 L’Acte d’Amour est un ensemble de moments, de gestes, de caresses, de silences, de mots, de regards, de Nature qui se donne, de baisers et de jeu des Corps qui s’unissent pour se rapprocher de Notre Père.

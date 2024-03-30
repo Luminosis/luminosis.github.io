@@ -3,6 +3,7 @@ layout: post
 title: "Who do you believe can heal you?"
 date: 2012-08-15 10:57:19 +0200
 tags: en
+lang: en
 categories: body volume_I
 ---
 You are in pain, you are suffering, the medications of men dull you and you are heading straight towards death. You don't know why. You don't know how to heal yourself. An existence lost due to the foolishness, ignorance, and vanity of a medical profession without Faith.

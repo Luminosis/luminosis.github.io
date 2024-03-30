@@ -3,6 +3,8 @@ layout: post
 title:  "Définir la Beauté ?"
 date:   2012-08-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 S’il fallait définir la Beauté nous aurions du mal à trouver les mots qui puissent ne serait-ce que tenter. La décrire est une illusion. Les mots ne peuvent restituer “le sentiment” de Beauté. Car tout est là. “La Beauté” est un sentiment qui prend naissance dans le Cœur des hommes et des femmes.

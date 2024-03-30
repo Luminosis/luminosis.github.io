@@ -3,6 +3,8 @@ layout: post
 title:  "Où se trouve l'énergie d'Amour ?"
 date:   2012-09-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: metaphysic volume_I
 ---
 Ou se trouve l’énergie d’Amour dans ce Monde et dans l’Univers ? Notre Père est Amour et le Christ est cette essence de Notre Père, mais ou réside-t-elle ? Eh bien elle est partout car elle est le Vide, là ou est la matière subtile. Tout est Amour car l’Amour est l’Univers de la matière subtile.

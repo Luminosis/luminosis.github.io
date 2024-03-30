@@ -3,6 +3,7 @@ layout: post
 title: "The Law of Evolution will save Nature"
 date: 2012-10-04 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Go and look at Nature. Look at it well because tomorrow it will not be the same. Start again tomorrow because it will have changed again, then start again every day because it evolves endlessly. Evolution is the rule of Nature. The Law of Evolution is inscribed in Nature as Our Father created it.

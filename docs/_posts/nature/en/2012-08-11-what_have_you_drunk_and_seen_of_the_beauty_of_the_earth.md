@@ -3,6 +3,7 @@ layout: post
 title: "What have you drunk and seen of the beauty of the Earth?"
 date: 2012-08-11 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Of the Beauty that you have before your eyes, what have you drunk and seen?<br>

@@ -3,6 +3,9 @@ layout: post
 title:  "Mais ou allez-vous le chercher cet Amour ?"
 date:   2012-08-27 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Lorsqu’un enfant demande à ses parents si le fait d’avoir bientôt un petit frère ou une petite Sœur changera le volume d’Amour qu’il reçoit d’eux, ils se trouvent bien embarrassés pour lui fournir une explication qui se tienne. *'Mais non mon chéri on ne partage pas l’Amour, il y en aura pour toi et ta petite Sœur ou ton petit frère'* répondrez-vous. *'Oui mais vous allez aller le chercher ou cet Amour ?'* demandera l’enfant avec raison. La peur du manque d’Amour est une source sans fin pour la jalousie.

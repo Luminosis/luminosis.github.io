@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'est-ce qu'une larme ?"
 date:   2012-08-30 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 Les Larmes. Avez-vous déjà réfléchi à ce qu’est une Larme ? Pourquoi pleure-t-on ? À quoi cela sert-il ?

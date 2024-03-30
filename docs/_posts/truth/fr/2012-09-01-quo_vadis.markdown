@@ -3,6 +3,8 @@ layout: post
 title:  "Quo vadis ?"
 date:   2012-09-01 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Quo vadis ? Qui va là ? Que venez-vous faire sur cette Terre ? Où allez-vous ? Pourquoi ? D’où venez-vous ? Quelles sont vos intentions ? Avez-vous bien compris ce qui vous arrivera si vous ne remplissez pas votre mission ou pire allez servir l’Ombre de ce Monde ?

@@ -3,6 +3,7 @@ layout: post
 title: "The body, a fabulous instrument"
 date: 2012-09-08 10:57:19 +0200
 tags: en
+lang: en
 categories: body volume_I
 ---
 Your body is a fabulous tool. An instrument that you must take care of and get to know. Why? Because it is with it that you will travel your path towards Our Father. The Church and religions, by denying the Body, have once again caused deep damage. Religions are plagues, and it is high time that humanity gets rid of them as soon as possible.

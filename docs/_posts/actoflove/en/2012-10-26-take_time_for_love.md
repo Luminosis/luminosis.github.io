@@ -3,6 +3,7 @@ layout: post
 title: "Taking Time for Love"
 date: 2012-10-26 10:57:19 +0200
 tags: en
+lang: en
 categories: actoflove volume_I
 ---
 The Love you feel when you take their hand. The Love you feel when you love them with all your Body. The Love you feel... The opportunities to feel Love are endless, and Life presents them to you every day, but do you even know how to seize them?

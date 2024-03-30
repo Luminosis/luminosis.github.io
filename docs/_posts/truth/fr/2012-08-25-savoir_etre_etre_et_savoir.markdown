@@ -3,6 +3,8 @@ layout: post
 title:  "Savoir et Etre. Etre et Savoir."
 date:   2012-08-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Savoir et être. Être et savoir. Vous serez et vous saurez. Les deux sont proches dans l’orthographe car dans le sens être et savoir sont identiques. Si vous n’êtes pas ce que vous savez alors vous n’êtes rien ou si peu, car de votre savoir dépend ce que vous êtes, et de ce que vous allez apprendre - ou pas - dépend votre devenir.

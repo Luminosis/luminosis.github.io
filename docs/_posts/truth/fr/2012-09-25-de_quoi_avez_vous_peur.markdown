@@ -3,6 +3,8 @@ layout: post
 title:  "De quoi avez-vous peur ?"
 date:   2012-09-25 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 De quoi avez-vous peur ? De l’Amour ? De la spiritualité ? Des hommes ? Notre Père est Amour, chaque être est un enfant de Notre Père et a tout son Amour. Il n’y a pas de distinction. La Peur est le fruit de l’Ego et des fléaux qui s’empare du Cœur des hommes et des femmes.

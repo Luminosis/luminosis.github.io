@@ -3,6 +3,7 @@ layout: post
 title: "What is an atom?"
 date: 2012-08-25 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 What is an atom? An elementary particle, you might say. It itself is composed of subatomic particles: protons, neutrons, etc. Well. So you know what Epicurus, Democritus, Leucippus, and the Greek materialist philosophers discovered thousands of years ago! Bravo, you have rediscovered the atom. But what do you know about how the atom functions? Why does it combine with this one and not that one, even though both are of the same kind? Nothing. You look with a magnifying glass, you break atoms to see what happens - what finesse! - and in the end you know nothing about the subtle, transmission, simulacra, time and all that goes with it.

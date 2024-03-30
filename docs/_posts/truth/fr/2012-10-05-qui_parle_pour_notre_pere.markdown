@@ -3,6 +3,8 @@ layout: post
 title:  "Qui parle pour Notre Père ?"
 date:   2012-10-05 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui parle pour Notre Père ? Où sont les textes inaltérés et véritables ? Les livres des religions sont-ils fiables ? Qui croire et que lire ?

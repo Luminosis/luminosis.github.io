@@ -3,6 +3,8 @@ layout: post
 title:  "La Nature gronde sous vos pieds"
 date:   2012-08-16 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 La Nature a se pouvoir d’inventer ce qui est nécessaire à la Terre. Si la Terre a besoin de prédateurs alors ils apparaissent au fil du temps. Si la Terre a besoin d’un nouveau virus pour “soigner” une espèce alors celui-ci apparaît. Si Notre Père lui demande de fertiliser les champs des hommes alors elle s’exécute.

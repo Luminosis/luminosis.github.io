@@ -3,6 +3,8 @@ layout: post
 title:  "De la Beauté"
 date:   2012-08-04 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 La Beauté est une porte vers la Pureté, et la Vérité de ce que peut être cette Terre et notre vie d’homme et de femme. Il n’y a dans la quête de la Beauté rien de plus délicat que de savoir ce qu’elle est.

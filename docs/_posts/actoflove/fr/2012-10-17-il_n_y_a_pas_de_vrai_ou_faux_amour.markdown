@@ -3,6 +3,9 @@ layout: post
 title:  "Il n'y a pas de vrai ou faux Amour"
 date:   2012-10-17 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 L’Amour pouvez-vous l’expliquer ? Si vous le pouvez alors vous savez expliquer tout ce qu’est Notre Père ! N’essayez pas d’expliquer ce qu’aucun homme ne peut expliquer. L’Amour cette force qui a donné naissance à la Lumière et à ce Monde n’est pas explicable par des mots. L’Amour peut s’apprendre, se ressentir mais ne peut être expliqué. L’Amour ne s’apprend pas dans les livres, il n’existe qu’une seule façon de l’apprendre et c’est de vivre la Vie. Si vous ouvrez vos sens, tous vos sens physiques et subtils, alors vous aurez l’occasion de ressentir l’Amour sous plein de ses formes.

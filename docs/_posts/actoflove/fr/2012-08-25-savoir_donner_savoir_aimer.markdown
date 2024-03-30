@@ -3,6 +3,9 @@ layout: post
 title:  "Savoir donner. Savoir Aimer."
 date:   2012-08-25 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Savoir donner. Savoir Aimer. Savoir donner sans reprendre. Juste donner sans rien attendre en retour sinon que ce que Notre Père voudra vous donner.

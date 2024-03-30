@@ -3,6 +3,8 @@ layout: post
 title:  "Qui est Notre Père ?"
 date:   2012-10-22 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui est Notre Père ? Pourrait-il être un monstre désireux de punir l’humanité ? Pourrait-il être un sadique qui ne jouit que de la souffrance qu’il impose aux hommes ? Pourrait-il être incomplet et étourdie pour avoir créé le chaos et non l’ordre sans fin ? Quelle folie lorsque vous réalisez que ce sont là des descriptions que donnent les religions de Notre Père !

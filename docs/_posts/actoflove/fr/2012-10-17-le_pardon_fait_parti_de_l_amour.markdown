@@ -3,6 +3,9 @@ layout: post
 title:  "Le Pardon fait parti de l'Amour"
 date:   2012-10-17 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Le Pardon, n’oubliez jamais que le Pardon fait parti de l’Amour. Le Pardon est l’alchimiste qui transforme en Amour. Ne pensez pas pouvoir expérimenter et appréhender l’Amour sans vous être profondément plongé dans l’expérience du Pardon. Beaucoup essaient de comprendre l’Amour en évitant soigneusement le Pardon. Si vous n’avez aucune idée de ce qu’est le Pardon alors vous n’avez aucune idée de ce qu’est l’Amour. Cherchez à sentir, ressentir le Pardon et vous entreverrez l’Amour.

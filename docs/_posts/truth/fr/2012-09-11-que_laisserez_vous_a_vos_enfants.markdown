@@ -3,6 +3,8 @@ layout: post
 title:  "Que laisserez-vous à vos enfants ?"
 date:   2012-09-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que laisserez-vous à vos Enfants ? Quels souvenirs garderont-ils de ces 2012 ans après Jésus de Nazareth ? Quoi de Beau, merveilleux et fabuleux leur avez-vous construit ? Internet et Facebook ? Qu’avez-vous fait pour qu’ils puissent vivre en Paix dans la Joie et l’Amour ? Quelle gestion avez-vous fait du patrimoine Nature que vous a confié Notre Père ?

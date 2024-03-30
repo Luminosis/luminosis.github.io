@@ -3,6 +3,8 @@ layout: post
 title:  "Le corps un instrument fabuleux"
 date:   2012-09-08 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 Votre Corps est un outil fabuleux. Un instrument que vous devez soigner et apprendre à connaître. Pourquoi ? Car c’est avec lui que vous vous parcourrez votre chemin vers Notre Père. L’Église et les religions en niant le Corps ont causé, là encore, des dégâts profonds. Les religions sont des fléaux, et il est grand temps que l’humanité s’en débarrasse au plus vite.

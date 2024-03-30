@@ -3,6 +3,7 @@ layout: post
 title: "Have you listened to the bird singing this morning?"
 date: 2012-08-21 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Have you listened to the bird singing this morning? Why does this bird sing? What Joy animates it? Why do men and women no longer sing in the morning when they wake up? Why these gray and dark faces of rushed people who forget to live? Do you really believe that making money and taking vacations are the fundamental and essential activities of a life?

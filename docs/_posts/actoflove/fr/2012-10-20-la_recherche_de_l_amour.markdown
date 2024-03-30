@@ -3,6 +3,9 @@ layout: post
 title:  "La Recherche de l'Amour"
 date:   2012-10-20 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Le Corps aime sentir l’Amour. Il en a besoin pour être tel qu’il a été conçu. La privation de l’Amour est la source de beaucoup de maladie, et la plus importante des privations et celle issue du reniement de l’Amour de Notre Père qui est en chacun de nous.

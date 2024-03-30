@@ -3,6 +3,7 @@ layout: post
 title: "Subtle matter is real"
 date: 2012-09-11 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 Love is a force, a feeling, an emotion, a state, an energy, a food, a vibration, etc. Love comes in all states of the world of subtle matter. What instruments do you have to measure Love? Do you know how to measure the radiations of Love? Do you know how to feel Love?

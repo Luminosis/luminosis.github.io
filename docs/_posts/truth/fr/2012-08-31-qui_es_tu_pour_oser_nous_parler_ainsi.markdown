@@ -3,6 +3,8 @@ layout: post
 title:  "Qui es-tu pour oser nous parler ainsi ?"
 date:   2012-08-31 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 *“Qui es-tu Philippe pour oser nous parler ainsi ? Qui es-tu pour oser blasphémer contre les religions ? Pour qui te prends-tu ?”*

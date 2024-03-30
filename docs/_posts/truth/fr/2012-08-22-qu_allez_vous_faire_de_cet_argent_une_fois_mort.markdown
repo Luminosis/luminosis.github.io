@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'allez-vous faire de cet argent une fois mort ?"
 date:   2012-08-22 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 L’argent, quelle belle invention ! Il est utile pour commercer et échanger, mais quand cet objet, cette petite chose utile, devient votre Dieu alors tout est perdu ; la raison vous quitte ; l’humilité disparaît. L’intelligence s’efface pour laisser la place à l’avidité, la haine, la jalousie, la colère et tout ce qui nourrit l’Ombre.

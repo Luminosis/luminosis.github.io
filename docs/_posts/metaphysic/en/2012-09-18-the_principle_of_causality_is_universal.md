@@ -3,6 +3,7 @@ layout: post
 title: "The principle of causality is universal"
 date: 2012-09-18 10:57:19 +0200
 tags: en
+lang: en
 categories: metaphysic volume_I
 ---
 What does pragmatism and empirical reasoning bring to humanity? How does humanity proceed to discover the World and progress since its existence? What source does humanity use to seek solutions and move forward? Reflect. What is the first thing that the first man had in front of his eyes? What is there day after day in front of his eyes and allows him to live, to heal, to understand why he is? Yes, Nature.

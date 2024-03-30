@@ -3,6 +3,8 @@ layout: post
 title:  "Avez-vous écouté l'oiseau chanter ce matin ?"
 date:   2012-08-21 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: nature volume_I
 ---
 Avez-vous écouté l’oiseau chanter ce matin ? Pourquoi cet oiseau chante-t-il ? Quel Joie l’anime ? Pourquoi les hommes et les femmes ne chantent-ils plus le matin en se levant ? Pourquoi ces mines grises et sombres de gens pressés qui oublient de vivre ? Croyez-vous vraiment que gagner de l’argent et prendre des vacances soient les activités fondamentales et essentielles d’une vie ?

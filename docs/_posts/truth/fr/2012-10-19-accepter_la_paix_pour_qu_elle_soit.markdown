@@ -3,6 +3,8 @@ layout: post
 title:  "Accepter la Paix pour qu'elle soit"
 date:   2012-10-19 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 La Paix ne viendra que lorsque l’humanité voudra l’accepter. La Paix n’est pas la fille de la guerre, ni du sang, ni de la haine. Celui qui accepte ces fléaux dans son Cœur ne connaîtra pas la Paix et ralentira le Monde sur le chemin vers la Paix et qui le mène à être ce lieu d’Amour, de Paix et de Joie.

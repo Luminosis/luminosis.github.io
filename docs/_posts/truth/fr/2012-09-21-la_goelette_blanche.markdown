@@ -3,6 +3,8 @@ layout: post
 title:  "La Goélette blanche"
 date:   2012-09-15 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Mettez un homme sur un bateau et faites lui faire le tour des Océans. Mettez un homme en haut d’un arbre et laissez-le contempler la Nature. Ces deux hommes découvriront ce que vos yeux ne savent plus voir. Quelqu’un vous a mis les mains devant les yeux, et il fait en sorte que vous ne voyez plus le Monde ni la Nature.

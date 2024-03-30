@@ -3,6 +3,7 @@ layout: post
 title: "What have you understood about the body?"
 date: 2012-08-23 10:57:19 +0200
 tags: en
+lang: en
 categories: body volume_I
 ---
 The Body. What have you understood about your body and that of animals? What do you really know? You have a basic understanding of the mechanics of bones and structure but the essential escapes you.

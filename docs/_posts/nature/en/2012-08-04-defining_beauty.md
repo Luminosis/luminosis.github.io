@@ -3,6 +3,7 @@ layout: post
 title: "Defining Beauty?"
 date: 2012-08-04 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 If we had to define Beauty, we would have a hard time finding the words that could even attempt to do so. Describing it is an illusion. Words cannot convey "the feeling" of Beauty. Because everything is there. "Beauty" is a feeling that originates in the hearts of men and women.

@@ -3,6 +3,7 @@ layout: post
 title: "Nature rumbles beneath your feet"
 date: 2012-08-16 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Nature has the power to invent what is necessary for the Earth. If the Earth needs predators, then they appear over time. If the Earth needs a new virus to "heal" a species, then it appears. If Our Father asks her to fertilize the fields of men, then she obeys.

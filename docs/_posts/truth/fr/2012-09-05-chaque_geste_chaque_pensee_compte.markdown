@@ -3,6 +3,8 @@ layout: post
 title:  "Chaque geste, chaque pensée compte"
 date:   2012-09-03 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Aucun homme, aucune femme n’est seul sur cette Terre. La solitude est illusion de l’esprit. Une illusion vivace chez ceux dont le Cœur a oublié Notre Père. Carl Jung a énoncé le principe de Synchronicité. Alain Corneau a développé cela encore plus loin en tendant vers l’idée que tous les hommes et les femmes ce Monde ne font qu’un. Ils ont raison. Tous les hommes et les femmes de ce Monde ne font qu’un, une seule famille, une unité.

@@ -3,6 +3,8 @@ layout: post
 title:  "Qu'auriez-vous fait au pied du Golgotha ?"
 date:   2012-08-17 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Homme, Femme, qu’avez-vous compris et retenu de ces 2012 ans ? Qu’avez-vous fait de bon ou de Beau ? Quelles œuvres de Paix, de Joie ou d’Amour avez-vous bâti pour Notre Père ? Où étiez-vous ? Pensez-vous que La Terre, Le Soleil et La Nature ne soient que des objets sans valeur que vous pouvez souiller à votre convenance ?

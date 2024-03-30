@@ -3,6 +3,9 @@ layout: post
 title:  "Alors cet Acte d'Amour ?"
 date:   2012-08-29 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Alors cet Acte d’Amour ? Avez-vous essayé ? Avez-vous été capable de passer des heures somptueuses en vous remplissant d’un Amour d’une puissance irréelle et ce sans jamais faire sauter la petite culotte de votre compagne ou le slip de votre compagnon ? Avez-vous senti l’Amour et compris que la sexualité - qui est un plaisir indéniable et nécessaire à une vie - n’est qu’une facette de l’Amour ?

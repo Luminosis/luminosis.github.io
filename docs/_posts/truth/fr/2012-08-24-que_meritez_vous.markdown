@@ -3,6 +3,8 @@ layout: post
 title:  "Que méritez-vous ?"
 date:   2012-08-24 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Que méritez-vous ? La Paix ? La Joie ? L’Amour ? Les trois ? Rien, le néant de l’Ombre que vous alimentez jour après jour comme un brasier monstrueux ? Qu’espérez-vous ? Un miracle ? Le bonheur qui arrive sans aucun effort, cela serait si facile…

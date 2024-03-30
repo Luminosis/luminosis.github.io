@@ -3,6 +3,9 @@ layout: post
 title:  "D'ou vient donc ce besoin d'Amour ?"
 date:   2012-08-27 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Pourquoi l’homme et la femme passe-t-il leur vie à chercher l’Amour ? L’Amour vous le mettez partout : l’amour du vin, l’amour du travail bien fait, l’amour des belles choses, l’amour des animaux, l’amour des fleurs, etc. L’Amour.

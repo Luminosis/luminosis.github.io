@@ -3,6 +3,8 @@ layout: post
 title:  "La Paix vient de l'intérieur"
 date:   2012-09-06 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Il ne suffit pas de poser les armes pour trouver la Paix. Non, c’est l’inverse il faut trouver la Paix en soi pour jeter son arme sur le champ. La Paix ne viendra pas d’armistices ou d’accords politiques. Non, la Paix viendra du Cœur des hommes et des femmes. La Paix viendra du regard d’un Enfant qui transperce l’opacité de la violence, de la haine, de l’intolérance, de la colère, de la jalousie pour atteindre le Cœur de celui qui porte l’arme.

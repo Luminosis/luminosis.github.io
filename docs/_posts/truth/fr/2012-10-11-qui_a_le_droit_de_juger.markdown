@@ -3,6 +3,8 @@ layout: post
 title:  "Qui a le droit de juger ?"
 date:   2012-10-11 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: truth volume_I
 ---
 Qui es-tu homme pour juger ton frère ? Qui es-tu homme pour punir, châtier, venger, tuer au nom de Notre Père ? Que crois-tu que sera ton avenir et ton chemin après avoir commis le pire des actes contre Notre Père et ton frère ? Ne vois-tu pas la peur que tu répands ? Cette peur qui fait s’éloigner les femmes et les hommes de Notre Père. Cette peur qui jette les Âmes sur de longs sentiers ou elles cherchent alors leur Foi.

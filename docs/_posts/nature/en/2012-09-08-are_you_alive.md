@@ -3,6 +3,7 @@ layout: post
 title: "Are you alive?"
 date: 2012-09-08 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 Are you alive? How do you know that you are alive? What indicators do you have? All of this could just as well be a big dream, a huge "matrix" to keep you away from Our Father.

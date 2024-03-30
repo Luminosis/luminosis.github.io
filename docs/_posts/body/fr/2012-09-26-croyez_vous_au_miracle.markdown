@@ -3,6 +3,8 @@ layout: post
 title:  "Croyez-vous aux Miracles ?"
 date:   2012-09-26 10:57:19 +0200
 tags: fr
+lang: fr
+
 categories: body volume_I
 ---
 Croyez-vous aux Miracles ? Croyez-vous à ce que dit la Bible sur Jésus de Nazareth ? Croyez-vous que l’Âme puisse agir sur le Corps ? Croyez-vous qu’il soit possible de soigner toutes les Maladies du Corps ?

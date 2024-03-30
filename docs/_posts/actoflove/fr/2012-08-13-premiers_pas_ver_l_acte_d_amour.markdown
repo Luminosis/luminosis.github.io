@@ -3,6 +3,9 @@ layout: post
 title:  "Premiers pas vers l'Acte d'Amour"
 date:   2012-08-13 10:57:19 +0200
 tags: fr
+lang: fr
+
+lang: fr
 categories: actoflove volume_I
 ---
 Alors homme, femme, vous voulez sentir cet orgasme d’Amour. Vous voulez savoir comment l’atteindre. Les beaux parleurs et ceux qui exhibent leurs seins, fesses et verge se demandent s’il existe quelque chose de plus fort qu’une misérable éjaculation et un peu de cyprine au fond du vagin ?

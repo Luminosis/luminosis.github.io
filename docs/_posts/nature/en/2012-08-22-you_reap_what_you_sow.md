@@ -3,6 +3,7 @@ layout: post
 title: "You reap what you sow"
 date: 2012-08-22 10:57:19 +0200
 tags: en
+lang: en
 categories: nature volume_I
 ---
 In gentleness, in Love, in life... wherever you look with eyes full of Light and Love, you will see Our Father. What do you believe this World to be? A dark place infested with criminals? A place that could be the Kingdom of Our Father if only you made the effort?
