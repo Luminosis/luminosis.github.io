@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Qu'est ce que la vie ?"
+title:  "Qu'est ce que la Vie ?"
 date:   2012-09-04 10:57:19 +0200
 tags: fr
 categories: metaphysic volume_I
