@@ -20,8 +20,6 @@ Pour faire la Paix acceptez que vous êtes des enfants de Notre Père, qu’il e
 Ce Monde a déjà connu la Paix, certes une Paix précaire, courte mais preuve que lorsque l’Humanité est dirigée par des hommes Sages et Clairvoyants alors elle avance paisiblement sous le regard heureux de Notre Père.
 
 Philippe
-4
-
 
 
 <!-- 
