@@ -18,7 +18,7 @@ Vous pleurerez le jour venu. Ils auront encore plus peur que vous. Et comme vous
 Souvenez-vous de ce livre : La Bible. Oui, vous savez ce vieux livre, La Bible. Oh, c’est une histoire pour les enfants. Tout est faux dedans. Ce ne sont que des inventions d’une bande de fou de la même espèce que ce prétendu Philippe qui nous sermonne, “Quel crétin ce type !".
 
 La Bible. La Bible, une invention, un conte de fées ? Certes les pères de l’Eglise lui ont un tordu le cou en y ajoutant plein de choses qui n’ont rien à y faire, et en supprimant plus encore qui devrait y être, mais elle est là.
-Est-ce un livre réservé aux clients de vos hôpitaux psychiatriques ? Est-ce juste un tas de fadaises vieillottes ? Réfléchissez et souvenez-vous... 3’000 milles ans et plus rien. Souvenez-vous : Jésus de Nazareth. Souvenez-vous : David et Salomon. Fadaises n’est-ce pas ?
+Est-ce un livre réservé aux clients de vos hôpitaux psychiatriques ? Est-ce juste un tas de fadaises vieillottes ? Réfléchissez et souvenez-vous... 3 000 ans et ensuite, plus rien. Souvenez-vous : Jésus de Nazareth. Souvenez-vous : David et Salomon. Fadaises n’est-ce pas ?
 
 Ceux en qui et ce en quoi vous croyez seront votre fin ou votre avenir. À vous de choisir.
 
