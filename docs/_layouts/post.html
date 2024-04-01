@@ -12,4 +12,39 @@ layout: default
     {{ content }}
   </article>
 
+
+<div class="PageNavigation">
+
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
+{% assign found_post = false %}
+  
+{% for post in site.posts %}
+
+  {% if post.categories == page.categories %}
+
+     {% if post.tags contains page.lang %}
+
+    {% if found_post %}
+      {% assign prev_post = post %}
+      {% break %}
+    {% endif %}
+    
+    {% if post.title == page.title %}
+      {% assign found_post = true %}
+    {% else %}
+      {% assign next_post = post %}
+    {% endif %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+
+{% if prev_post != nil %}
+  <a href="{{ prev_post.url | prepend: site.baseurl }}"> < {{ prev_post.title }}</a>
+{% endif %}
+{% if next_post != nil %}
+  <a href="{{ next_post.url | prepend: site.baseurl }}"> {{ next_post.title }}  > </a>
+{% endif %}
+</div>
+
 </div>
